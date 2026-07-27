@@ -1,0 +1,417 @@
+Nom,Cognoms,DNI,País d'origen,Ciutat,Dia de Naixement,Mes de Naixement,Any de Naixement,Gènere,Salari mensual,Grup Professional,Càrrec,Nombre_fills,Te_cotxe,Km_anuals,Consum_mitja_L_100km,Temperatura_mitjana_ciutat,Cost_vida_index,Transport_public_score,Clima_tipus,cost_vida_categoria,transport_categoria,franja_edat,te_fills,increment_percent,salari_ajustat,index_dependencia_familiar,ratio_salari_cost_vida,etapa_vital,Edat
+Noa,Serra,14308421X,Espanya,Alacant,27.0,4.0,1961.0,Dona,1358.0,Grup A,Tècnic IT,4.0,,,,16.7,68.0,7.0,Mediterrani,low,low,60+,True,8.5,1473.43,271.6,21.67,2,65.0
+Joana,,82772208R,Espanya,Valladolid,24.0,10.0,1961.0,Dona,982.0,Grup A,Administratiu/va,0.0,True,14178.0,7.7,38.0,64.0,6.7,Continental,low,low,60+,False,7.0,1050.74,982.0,16.42,1,65.0
+Emilia,Hoffmann,66851377P,Alemanya,Stuttgart,21.0,2.0,1961.0,Dona,1003.0,Grup A,Cap de projecte,0.0,True,6931.0,12.2,12.4,79.0,7.9,Continental,high,high,60+,False,8.0,1083.24,1003.0,13.71,1,65.0
+Xavier,Casals,43491314K,Espanya,Alacant,22.0,4.0,1980.0,Home,1800.0,Grup A,Analista junior,0.0,True,38248.0,0.5,19.7,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1935.0,1800.0,28.46,1,46.0
+Sara,Hernández Costa,91363974Q,Espanya,València,14.0,6.0,2004.0,Home,982.0,Grup A,Analista junior,0.0,,,,15.8,70.0,7.5,Mediterrani,medium,medium,18-29,False,6.0,1040.92,982.0,14.87,0,22.0
+Sigrid,Olsen,70604045C,Noruega,Bergen,19.0,6.0,1964.0,Dona,1385.0,Grup A,Administratiu/va,0.0,True,80000.0,25.0,8.8,85.0,8.8,Oceànic,high,high,60+,False,8.0,1495.8,1385.0,17.6,1,62.0
+Adrià,Ribera,63640499F,Espanya,Palma,16.0,7.0,2002.0,Dona,889.0,Grup A,Analista,0.0,,,,19.2,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,942.34,889.0,12.91,0,24.0
+Riccardo,Bianchi,69401199L,Itàlia,Milano,11.0,10.0,1993.0,Dona,1121.0,Grup A,Tècnic IT,0.0,True,20000.0,7.4,12.6,80.0,7.5,Continental,high,medium,30-44,False,8.0,1210.68,1121.0,15.13,1,33.0
+Valentina,Rossi,83300637L,Itàlia,Genova,18.0,7.0,1982.0,Dona,1094.0,Grup A,Analista senior,4.0,False,,,42.0,72.0,6.9,Mediterrani,medium,low,30-44,True,9.0,1192.46,218.8,16.56,2,44.0
+Chloé,Durand,96691619E,França,Toulouse,16.0,12.0,1973.0,Home,751.0,Grup A,Responsable de vendes,2.0,,,,10.7,74.36363636363636,7.615909090909091,,high,high,45-59,True,10.0,826.1,250.33,11.11,1,53.0
+Adrià,Ferrer,64830300Z,Espanya,Barcelona,10.0,5.0,1987.0,Home,927.0,Grup A,Cap de projecte,,True,116927.0,12.0,38.0,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,996.52,,12.78,1,39.0
+Alba,Vidal,75007200B,Espanya,Bilbao,18.0,8.0,1967.0,Home,1014.0,Grup A,Administratiu/va,2.0,True,50000.0,0.5,14.1,72.0,7.8,Oceànic,medium,high,45-59,True,9.0,1105.26,338.0,15.35,1,59.0
+Laia,Puig,57287718F,Espanya,Girona,20.0,4.0,1976.0,Dona,1438.0,Grup A,Analista senior,0.0,,,,12.9,66.0,6.8,Mediterrani,low,low,45-59,False,7.5,1545.85,1438.0,23.42,1,50.0
+Hugo,Ribera,18484847C,Espanya,Barcelona,21.0,4.0,1997.0,Dona,1032.0,Grup A,Responsable de vendes,1.0,False,,,16.793617021276596,78.0,8.5,Mediterrani,high,high,18-29,True,8.0,1114.56,516.0,14.29,1,29.0
+Pol,Casals,14180968R,Espanya,Barcelona,21.0,8.0,1977.0,Dona,1112.0,Grup A,Responsable de vendes,,True,114730.0,25.0,17.1,78.0,8.5,Mediterrani,high,high,45-59,False,8.5,1206.52,,15.47,1,49.0
+Sergio,,64362516T,Espanya,Murcia,4.0,5.0,1984.0,Dona,1021.0,Grup A,Administratiu/va,1.0,,,,18.9,60.0,6.5,Mediterrani,low,low,30-44,True,8.0,1102.68,510.5,18.38,1,42.0
+Nil,Ferrer Moreno,25304396Q,Espanya,Murcia,21.0,9.0,1962.0,Home,1156.0,Grup A,Analista senior,0.0,True,60856.0,7.3,17.8,60.0,6.5,Mediterrani,low,low,60+,False,7.0,1236.92,1156.0,20.62,1,64.0
+Pau,Costa,15505975Z,Espanya,Murcia,26.0,9.0,1995.0,Dona,1242.0,Grup A,Analista senior,1.0,False,,,19.4,60.0,6.5,Mediterrani,low,low,30-44,True,8.0,1341.36,621.0,22.36,1,31.0
+Felix,Wagner Weber,82446804Q,Alemanya,Stuttgart,17.0,2.0,1976.0,Dona,1251.0,Grup A,Analista,0.0,,,,10.2,79.0,7.9,Continental,high,high,45-59,False,8.5,1357.34,1251.0,17.18,1,50.0
+Giorgio,De Luca,64953237H,Itàlia,Milano,25.0,7.0,1991.0,Dona,956.0,Grup A,Analista junior,0.0,,,,16.4,80.0,7.5,Continental,high,medium,30-44,False,8.0,1032.48,956.0,12.91,1,35.0
+Adrià,Ramos,50818905M,Espanya,València,5.0,9.0,1965.0,Dona,1156.0,Grup A,Analista,0.0,False,,,17.448148148148146,70.0,7.5,Mediterrani,medium,medium,60+,False,7.5,1242.7,1156.0,17.75,1,61.0
+Manon,Laurent,45899440Z,França,Lille,4.0,8.0,1973.0,Dona,1092.0,Grup A,Analista senior,2.0,,,,11.9,71.0,7.3,Continental,medium,medium,45-59,True,9.5,1195.74,364.0,16.84,1,53.0
+Marc,Sánchez Ribera,16072331N,Espanya,Barcelona,12.0,7.0,1981.0,Home,827.0,Grup A,Analista,1.0,,,,18.4,78.0,8.5,Mediterrani,high,high,45-59,True,10.0,909.7,413.5,11.66,1,45.0
+Maja,Berg Johnsen,50308572Q,Noruega,Bergen,24.0,2.0,2000.0,Dona,1133.0,Grup A,Cap de projecte,0.0,False,,,-5.0,85.0,8.8,Oceànic,high,high,18-29,False,6.5,1206.64,1133.0,14.2,0,26.0
+Noa,Ferrer,14237322H,Espanya,Las Palmas de Gran Canaria,8.0,11.0,1967.0,Dona,878.0,Grup A,Analista junior,0.0,,,,38.0,62.0,6.8,Subtropical,low,low,45-59,False,7.5,943.85,878.0,15.22,1,59.0
+Carlos,Gil Soler,71694994V,Espanya,Las Palmas de Gran Canaria,6.0,6.0,1982.0,Prefereix no contestar,1163.0,Grup A,Administratiu/va,0.0,True,,,21.0,62.0,6.8,Subtropical,low,low,30-44,False,6.5,1238.6,1163.0,19.98,1,44.0
+Joana,Torres Muñoz,26357665H,Espanya,Girona,10.0,5.0,2004.0,Dona,1008.0,Grup A,Tècnic IT,,,,,18.1,66.0,6.8,Mediterrani,low,low,18-29,False,5.5,1063.44,,16.11,1,22.0
+Aina,Ferrer,85432781E,Espanya,Valladolid,30.0,5.0,1992.0,Dona,1436.0,Grup A,Cap de projecte,1.0,True,65983.0,11.7,15.9,64.0,6.7,Continental,low,low,30-44,True,8.0,1550.88,718.0,24.23,1,34.0
+Guillem,Sánchez,51738753E,Espanya,Barcelona,30.0,9.0,2001.0,Dona,1164.0,Grup A,Analista junior,2.0,False,,,18.0,78.0,8.5,Mediterrani,high,high,18-29,True,8.0,1257.12,388.0,16.12,1,25.0
+Claudia,Navarro,85686878R,Espanya,Alacant,15.0,7.0,1990.0,Home,1086.0,Grup A,Responsable de vendes,1.0,,,,16.9,68.0,7.0,Mediterrani,low,low,30-44,True,8.0,1172.88,543.0,17.25,1,36.0
+Marco,Romano,10466177T,Itàlia,Firenze,8.0,12.0,1966.0,Home,1455.0,Grup A,Cap de projecte,2.0,False,,,16.6,77.0,7.1,Continental,high,medium,60+,True,10.0,1600.5,485.0,20.79,1,60.0
+Carlos,,12176998P,Espanya,Alacant,5.0,12.0,1972.0,Home,918.0,Grup A,Tècnic IT,0.0,,,,17.23428571428571,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,986.85,918.0,14.51,1,54.0
+Pol,Roca,28784915V,Espanya,Palma,6.0,6.0,2004.0,Dona,1075.0,Grup A,Analista,0.0,,,,17.5,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,1139.5,1075.0,15.61,0,22.0
+,Puig Pérez,57572279P,Espanya,Zaragoza,9.0,9.0,1997.0,Dona,1100.0,Grup A,Tècnic IT,0.0,True,20000.0,6.1,16.8,68.0,7.0,Continental,low,low,18-29,False,5.5,1160.5,1100.0,17.07,0,29.0
+Irene,Pujol Roca,57756170V,Espanya,A Coruña,8.0,8.0,1986.0,Home,1268.0,Grup A,Tècnic IT,1.0,True,80000.0,12.7,15.9,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,1375.78,634.0,19.94,1,40.0
+Hannah,Schäfer Weber,90253323S,Alemanya,Leipzig,15.0,2.0,1982.0,Home,1438.0,Grup A,Tècnic IT,3.0,,,,13.7,70.0,7.2,Continental,medium,medium,30-44,True,8.5,1560.23,359.5,22.29,2,44.0
+Alexia,Ruiz,85594147C,Espanya,Madrid,2.0,10.0,1999.0,Dona,993.0,Grup A,Tècnic IT,2.0,,,,17.8,75.0,8.0,Continental,high,high,18-29,True,8.0,1072.44,331.0,14.3,1,27.0
+Núria,Muñoz Pujol,56300738T,Espanya,Sevilla,5.0,9.0,2002.0,Dona,1240.0,Grup A,Responsable de vendes,0.0,False,,,21.2,65.0,7.0,Mediterrani,low,low,18-29,False,5.5,1308.2,1240.0,20.13,0,24.0
+Maja,Eriksen,69314812J,Noruega,Stavanger,20.0,2.0,1975.0,Dona,1244.0,Grup A,Responsable de vendes,4.0,,,,5.8,87.95454545454545,9.036363636363637,,high,high,45-59,True,10.0,1368.4,248.8,15.56,2,51.0
+Sara,Sánchez Vila,49922369L,Espanya,Zaragoza,23.0,11.0,1969.0,Prefereix no contestar,810.0,Grup A,Analista junior,3.0,,,,15.6,68.0,7.0,Continental,low,low,45-59,True,9.0,882.9,202.5,12.98,2,57.0
+,,71380637H,Espanya,Barcelona,6.0,5.0,1992.0,Home,932.0,Grup A,Responsable de vendes,0.0,True,106611.0,10.1,14.7,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1001.9,932.0,12.84,1,34.0
+Aina,Muñoz,88909809E,Espanya,Palma,7.0,4.0,1965.0,Dona,1082.0,Grup A,Administratiu/va,0.0,True,,,18.3,73.0,7.2,Mediterrani,medium,medium,60+,False,7.5,1163.15,1082.0,15.93,1,61.0
+Emilia,Klein,83458776H,Alemanya,Düsseldorf,11.0,5.0,1978.0,Dona,1058.0,Grup A,Cap de projecte,0.0,False,,,14.8,77.87878787878788,8.036363636363635,,high,high,45-59,False,8.5,1147.93,1058.0,14.74,1,48.0
+Xavier,Romero,28792245A,Espanya,València,4.0,2.0,1971.0,Dona,1019.0,Grup A,Tècnic IT,1.0,,,,17.0,70.0,7.5,Mediterrani,medium,medium,45-59,True,9.5,1115.8,509.5,15.94,1,55.0
+Pau,,18115992N,Espanya,Tarragona,30.0,1.0,1971.0,Dona,1327.0,Grup A,Cap de projecte,0.0,,,,16.8,67.0,6.9,Mediterrani,low,low,45-59,False,7.5,1426.52,1327.0,21.29,1,55.0
+Marina,Ramos,63811222W,Espanya,Màlaga,2.0,9.0,1972.0,Dona,1215.0,Grup A,Responsable de vendes,0.0,False,,,19.9,68.5,7.209797297297297,,medium,medium,45-59,False,8.0,1312.2,1215.0,19.16,1,54.0
+Léa,Roux,41272427V,França,Nice,1.0,7.0,1958.0,Home,997.0,Grup A,Administratiu/va,4.0,,,,19.0,74.36363636363636,7.615909090909091,,high,high,60+,True,9.5,1091.71,199.4,14.68,2,68.0
+Marco,Rossi Ricci,94597104C,Itàlia,Torino,22.0,6.0,1983.0,Prefereix no contestar,771.0,Grup A,Analista junior,4.0,True,23728.0,25.0,12.5,74.0,7.2,Continental,high,medium,30-44,True,9.5,844.24,154.2,11.41,2,43.0
+Marina,Ruiz,62133188B,Espanya,València,19.0,4.0,1961.0,Dona,1062.0,Grup A,Analista,0.0,False,,,16.8,70.0,7.5,Mediterrani,medium,medium,60+,False,7.5,1141.65,1062.0,16.31,1,65.0
+Anna,Torres,41222178L,Espanya,Tarragona,2.0,2.0,1960.0,Dona,891.0,Grup A,Analista senior,2.0,True,23206.0,12.7,18.1,67.0,6.9,Mediterrani,low,low,60+,True,8.5,966.74,297.0,14.43,1,66.0
+Marta,López Soler,53299069G,Espanya,Murcia,10.0,6.0,1964.0,Dona,1106.0,Grup A,Analista,0.0,,,,17.4,60.0,6.5,Mediterrani,low,low,60+,False,7.0,1183.42,1106.0,19.72,1,62.0
+Pau,Domènech,45596211Y,Espanya,Alacant,1.0,8.0,1979.0,Home,1132.0,Grup A,Analista senior,0.0,,,,16.8,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1216.9,1132.0,17.9,1,47.0
+Élise,Fournier,91512791J,França,Nantes,6.0,11.0,1985.0,Dona,861.0,Grup A,Analista,0.0,False,,,12.6,74.36363636363636,7.615909090909091,,high,high,30-44,False,7.5,925.58,861.0,12.45,1,41.0
+Luca,Gallo Ferrari,74468586Y,Itàlia,Torino,20.0,11.0,2000.0,Dona,1357.71,Grup A,Analista junior,0.0,False,,,14.4,74.0,7.2,Continental,high,medium,18-29,False,7.0,1452.75,1357.71,19.63,0,26.0
+Thomas,Lefebvre Garcia,40365724P,França,Marseille,9.0,8.0,1986.0,Dona,975.0,Grup A,Analista,1.0,,,,14.1,72.0,7.4,Mediterrani,medium,medium,30-44,True,8.5,1057.88,487.5,14.69,1,40.0
+Adrià,Pérez Vidal,23554707D,Espanya,Madrid,19.0,2.0,1964.0,Dona,844.0,Grup A,Administratiu/va,,False,,,15.7,75.0,8.0,Continental,high,high,60+,False,8.0,911.52,,12.15,1,62.0
+Anna,Ribera Ruiz,59988144T,Espanya,Zaragoza,29.0,5.0,1988.0,Dona,845.0,Grup A,Administratiu/va,0.0,True,50000.0,0.5,12.8,68.0,7.0,Continental,low,low,30-44,False,6.5,899.92,845.0,13.23,1,38.0
+Carlos,Puig,17543817Q,Espanya,Palma,27.0,6.0,1991.0,Dona,1086.0,Grup A,Analista,0.0,True,5776.0,13.6,14.4,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,1162.02,1086.0,15.92,1,35.0
+Marie,Petit,97454571J,França,Marseille,9.0,4.0,2001.0,Dona,1298.0,Grup A,Analista,0.0,,,,17.4,72.0,7.4,Mediterrani,medium,medium,18-29,False,6.0,1375.88,1298.0,19.11,0,25.0
+Oriol,López Hernández,97438349D,Espanya,Madrid,21.0,5.0,1975.0,Dona,1405.0,Grup A,Cap de projecte,0.0,,,,18.1,75.0,8.0,Continental,high,high,45-59,False,8.5,1524.42,1405.0,20.33,1,51.0
+Anna,Moreno,51216287J,Espanya,Valladolid,28.0,12.0,1972.0,Home,1014.0,Grup A,Administratiu/va,1.0,,,,11.5,64.0,6.7,Continental,low,low,45-59,True,9.0,1105.26,507.0,17.27,1,54.0
+Anna,Fernández,65446317R,Espanya,Palma,10.0,9.0,1982.0,Dona,1767.07,Grup A,Cap de projecte,2.0,False,,,17.26734693877551,73.0,7.2,Mediterrani,medium,medium,30-44,True,8.5,1917.27,589.02,26.26,1,44.0
+Alexia,Gómez,68211760C,Espanya,Tarragona,20.0,3.0,1963.0,Home,1407.0,Grup A,Tècnic IT,2.0,True,104603.0,9.6,15.1,67.0,6.9,Mediterrani,low,low,60+,True,8.5,1526.6,469.0,22.79,1,63.0
+Aina,,33448079R,Espanya,Alacant,27.0,2.0,1961.0,Home,1366.0,Grup A,Cap de projecte,1.0,True,,,17.23428571428571,68.0,7.0,Mediterrani,low,low,60+,True,8.5,1482.11,683.0,21.8,1,65.0
+Marina,,74188958J,Espanya,València,28.0,12.0,1982.0,Dona,1800.0,Grup A,Analista,1.0,,,,13.6,70.0,7.5,Mediterrani,medium,medium,30-44,True,8.5,1953.0,900.0,27.9,1,44.0
+Alexia,Muñoz,75514730A,Espanya,Zaragoza,16.0,3.0,2004.0,Home,822.0,Grup A,Tècnic IT,1.0,,,,16.3,68.0,7.0,Continental,low,low,18-29,True,7.0,879.54,411.0,12.93,1,22.0
+Marc,Moreno,98813650F,Espanya,Valladolid,14.0,2.0,1997.0,Home,1281.0,Grup A,Responsable de vendes,0.0,True,99990.0,11.8,11.2,64.0,6.7,Continental,low,low,18-29,False,5.5,1351.46,1281.0,21.12,0,29.0
+Nil,Ribera,55748676B,Espanya,Valladolid,31.0,8.0,2000.0,Dona,1156.0,Grup A,Analista,0.0,False,,,12.9,64.0,6.7,Continental,low,low,18-29,False,5.5,1219.58,1156.0,19.06,0,26.0
+Adrià,,70465703Z,Espanya,Tarragona,25.0,2.0,1995.0,Dona,833.0,Grup A,Analista,0.0,False,,,15.2,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,887.14,833.0,13.24,1,31.0
+Leon,Zimmermann,30777669R,Alemanya,Hamburg,30.0,12.0,1987.0,Dona,1048.0,Grup A,Analista,0.0,,,,9.9,78.0,8.1,Oceànic,high,high,30-44,False,7.5,1126.6,1048.0,14.44,1,39.0
+Sergio,Torres,30454105H,Espanya,Sevilla,19.0,12.0,1977.0,Dona,1207.0,Grup A,Administratiu/va,2.0,,,,22.5,65.0,7.0,Mediterrani,low,low,45-59,True,9.0,1315.63,402.33,20.24,1,49.0
+Marc,Ramos,89193333Y,Espanya,Barcelona,25.0,7.0,1995.0,Dona,1026.0,Grup A,Analista,0.0,,,,16.9,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1102.95,1026.0,14.14,1,31.0
+Claudia,Pujol Torres,10161088K,Espanya,Las Palmas de Gran Canaria,27.0,9.0,1996.0,Home,946.0,Grup A,Tècnic IT,0.0,False,,,22.7,62.0,6.8,Subtropical,low,low,30-44,False,6.5,1007.49,946.0,16.25,1,30.0
+Elena,Bianchi Ricci,82978342J,Itàlia,Milano,20.0,5.0,1963.0,Dona,1290.0,Grup A,Cap de projecte,1.0,True,80000.0,25.0,14.9,80.0,7.5,Continental,high,medium,60+,True,10.0,1419.0,645.0,17.74,1,63.0
+Julien,Petit,16986408M,França,Marseille,23.0,10.0,1993.0,Dona,722.0,Grup A,Cap de projecte,,False,,,10.4,72.0,7.4,Mediterrani,medium,medium,30-44,False,7.0,772.54,,10.73,1,33.0
+Hugo,Roca,33524492C,Espanya,Zaragoza,31.0,1.0,1996.0,Home,1007.0,Grup A,Responsable de vendes,0.0,,,,8.6,68.0,7.0,Continental,low,low,30-44,False,6.5,1072.46,1007.0,15.77,1,30.0
+Marina,Sánchez,10889014V,Espanya,Tarragona,20.0,8.0,2000.0,Home,987.0,Grup A,Analista,0.0,,,,16.2,67.0,6.9,Mediterrani,low,low,18-29,False,5.5,1041.28,987.0,15.54,0,26.0
+Alejandro,,56612335N,Espanya,A Coruña,17.0,1.0,1992.0,Dona,940.0,Grup A,Analista,1.0,True,26866.0,,13.9,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,1019.9,470.0,14.78,1,34.0
+Oriol,Costa Gómez,59970552B,Espanya,Bilbao,23.0,7.0,1971.0,Dona,1800.0,Grup A,Tècnic IT,0.0,,,,17.3,72.0,7.8,Oceànic,medium,high,45-59,False,7.5,1935.0,1800.0,26.88,1,55.0
+,Ferrer Casals,94644676Q,Espanya,València,5.0,8.0,1984.0,Home,854.0,Grup A,Administratiu/va,0.0,True,80000.0,0.5,13.9,70.0,7.5,Mediterrani,medium,medium,30-44,False,7.0,913.78,854.0,13.05,1,42.0
+Alessandro,Barbieri,87424000H,Itàlia,Napoli,19.0,5.0,2001.0,Dona,946.0,Grup A,Analista,0.0,False,,,15.3,65.0,6.5,Mediterrani,low,low,18-29,False,5.5,998.03,946.0,15.35,0,25.0
+Irene,,80698159M,Espanya,Alacant,5.0,3.0,1998.0,Dona,1132.0,Grup A,Analista,0.0,True,70000.0,25.0,17.7,68.0,7.0,Mediterrani,low,low,18-29,False,5.5,1194.26,1132.0,17.56,0,28.0
+Noa,Ferrer,28337367D,Espanya,Bilbao,6.0,2.0,1970.0,Home,1072.0,Grup A,Analista junior,0.0,True,5252.0,,10.3,72.0,7.8,Oceànic,medium,high,45-59,False,7.5,1152.4,1072.0,16.01,1,56.0
+Alessandro,Ferrari Giordano,76893545B,Itàlia,Roma,26.0,5.0,1984.0,Home,822.0,Grup A,Responsable de vendes,0.0,False,,,19.9,78.0,7.6,Mediterrani,high,high,30-44,False,7.5,883.65,822.0,11.33,1,42.0
+Claudia,Sánchez Roca,99482259Y,Espanya,Las Palmas de Gran Canaria,28.0,1.0,1981.0,Dona,781.0,Grup A,Analista junior,1.0,True,20000.0,7.8,18.4,62.0,6.8,Subtropical,low,low,45-59,True,9.0,851.29,390.5,13.73,1,45.0
+Léa,Vincent Laurent,90353461V,França,Nice,28.0,5.0,1987.0,Dona,1027.0,Grup A,Analista,0.0,,,,15.9,74.36363636363636,7.615909090909091,,high,high,30-44,False,7.5,1104.02,1027.0,14.85,1,39.0
+Marta,Casals,19447334D,Espanya,Murcia,2.0,9.0,1975.0,Home,1268.0,Grup A,Analista junior,0.0,,,,14.4,60.0,6.5,Mediterrani,low,low,45-59,False,7.5,1363.1,1268.0,22.72,1,51.0
+David,Moreno,53412847L,Espanya,Màlaga,27.0,7.0,1998.0,Home,1073.0,Grup A,Analista senior,0.0,False,,,22.1,68.5,7.209797297297297,,medium,medium,18-29,False,6.0,1137.38,1073.0,16.6,0,28.0
+Jordi,Roca,52857940V,Espanya,Alacant,2.0,9.0,1977.0,Home,1183.0,Grup A,Analista,0.0,,,,18.4,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1271.72,1183.0,18.7,1,49.0
+Nil,Moreno,57232974B,Espanya,Las Palmas de Gran Canaria,22.0,6.0,1959.0,Dona,1001.0,Grup A,Cap de projecte,0.0,False,,,20.0,62.0,6.8,Subtropical,low,low,60+,False,7.0,1071.07,1001.0,17.28,1,67.0
+Alejandro,,29482024C,Espanya,Murcia,30.0,7.0,1966.0,Dona,1147.0,Grup A,Analista,3.0,True,65950.0,,20.0,60.0,6.5,Mediterrani,low,low,60+,True,8.5,1244.49,286.75,20.74,2,60.0
+Chiara,Colombo Ferrari,46831833X,Itàlia,Milano,3.0,9.0,1969.0,Dona,1144.0,Grup A,Tècnic IT,1.0,False,,,11.9,80.0,7.5,Continental,high,medium,45-59,True,10.5,1264.12,572.0,15.8,1,57.0
+Camille,Fournier,52746321P,França,Lyon,18.0,6.0,1992.0,Home,1261.0,Grup A,Analista,3.0,False,,,8.1,74.0,7.6,Continental,high,high,30-44,True,9.0,1374.49,315.25,18.57,2,34.0
+Pau,Romero Serra,69839130L,Espanya,Barcelona,27.0,11.0,1995.0,Home,1110.0,Grup A,Administratiu/va,0.0,False,,,12.2,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1193.25,1110.0,15.3,1,31.0
+Zoé,Thomas Dubois,89260394J,França,Marseille,13.0,8.0,1992.0,Home,1777.14,Grup A,Analista senior,2.0,,,,20.6,72.0,7.4,Mediterrani,medium,medium,30-44,True,8.5,1928.2,592.38,26.78,1,34.0
+,Moreno,87066247S,Espanya,A Coruña,3.0,11.0,2000.0,Prefereix no contestar,940.0,Grup A,Analista junior,0.0,False,,,13.0,69.0,7.1,Oceànic,medium,medium,18-29,False,6.0,996.4,940.0,14.44,0,26.0
+Adrià,Serra,92072899Q,Espanya,Alacant,1.0,10.0,1963.0,Home,1292.0,Grup A,Tècnic IT,0.0,,,,18.2,68.0,7.0,Mediterrani,low,low,60+,False,7.0,1382.44,1292.0,20.33,1,63.0
+Camille,Durand Vincent,64496780N,França,Bordeaux,13.0,12.0,1978.0,Dona,1117.0,Grup A,Tècnic IT,4.0,False,,,12.7,73.0,7.2,Oceànic,medium,medium,45-59,True,9.5,1223.12,223.4,16.76,2,48.0
+Camille,Dubois,28223512W,França,Marseille,14.0,11.0,1989.0,Prefereix no contestar,1057.0,Grup A,Analista,0.0,False,,,12.9,72.0,7.4,Mediterrani,medium,medium,30-44,False,7.0,1130.99,1057.0,15.71,1,37.0
+Elena,Moretti Giordano,46138183J,Itàlia,Torino,17.0,12.0,1973.0,Dona,1023.0,Grup A,Administratiu/va,4.0,True,80000.0,25.0,17.7,74.0,7.2,Continental,high,medium,45-59,True,10.5,1130.42,204.6,15.28,2,53.0
+Pol,Sánchez,59629263M,Espanya,Barcelona,15.0,11.0,1967.0,Home,1116.0,Grup A,Cap de projecte,0.0,True,113059.0,0.5,18.9,78.0,8.5,Mediterrani,high,high,45-59,False,8.5,1210.86,1116.0,15.52,1,59.0
+Marc,Romero Puig,81169409K,Espanya,Las Palmas de Gran Canaria,11.0,11.0,1982.0,Dona,1026.0,Grup A,Analista,0.0,False,,,21.5,62.0,6.8,Subtropical,low,low,30-44,False,6.5,1092.69,1026.0,17.62,1,44.0
+Ilaria,Colombo,11419753K,Itàlia,Napoli,18.0,6.0,1969.0,Dona,724.0,Grup A,Analista,4.0,,,,19.7,65.0,6.5,Mediterrani,low,low,45-59,True,9.0,789.16,144.8,12.14,2,57.0
+Chiara,Greco,75297400W,Itàlia,Genova,12.0,12.0,1998.0,Dona,785.0,Grup A,Responsable de vendes,0.0,True,65950.0,,16.1,72.0,6.9,Mediterrani,medium,low,18-29,False,6.5,836.02,785.0,11.61,0,28.0
+Federico,Esposito Rizzo,87758465F,Itàlia,Roma,5.0,9.0,2001.0,Dona,1027.0,Grup A,Analista junior,0.0,,,,14.5,78.0,7.6,Mediterrani,high,high,18-29,False,6.5,1093.75,1027.0,14.02,0,25.0
+Carmen,Ribera Gómez,32808354H,Espanya,Màlaga,29.0,10.0,1998.0,Dona,1179.0,Grup A,Analista senior,0.0,False,,,19.3,68.5,7.209797297297297,,medium,medium,18-29,False,6.0,1249.74,1179.0,18.24,0,28.0
+David,Ribera Costa,18808386Y,Espanya,Murcia,26.0,12.0,2001.0,Dona,1250.0,Grup A,Responsable de vendes,0.0,True,100054.0,8.8,20.9,60.0,6.5,Mediterrani,low,low,18-29,False,5.5,1318.75,1250.0,21.98,0,25.0
+Xavier,Pérez,35375292W,Espanya,Las Palmas de Gran Canaria,10.0,1.0,1999.0,Prefereix no contestar,871.0,Grup A,Analista,3.0,False,,,18.8,62.0,6.8,Subtropical,low,low,18-29,True,7.0,931.97,217.75,15.03,2,27.0
+Nil,Vidal Casals,59915883D,Espanya,Palma,16.0,4.0,1974.0,Dona,886.0,Grup A,Analista,1.0,True,56135.0,25.0,21.2,73.0,7.2,Mediterrani,medium,medium,45-59,True,9.5,970.17,443.0,13.29,1,52.0
+Chiara,Lombardi,70187134V,Itàlia,Torino,12.0,3.0,1980.0,Home,795.0,Grup A,Analista,0.0,False,,,-5.0,74.0,7.2,Continental,high,medium,45-59,False,9.0,866.55,795.0,11.71,1,46.0
+Nil,Pujol,69338400X,Espanya,Alacant,24.0,10.0,1967.0,Dona,1079.0,Grup A,Analista junior,0.0,,,,17.8,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1159.92,1079.0,17.06,1,59.0
+Nil,Torres,45255913D,Espanya,A Coruña,5.0,1.0,1959.0,Dona,1276.0,Grup A,Responsable de vendes,0.0,False,,,-5.0,69.0,7.1,Oceànic,medium,medium,60+,False,7.5,1371.7,1276.0,19.88,1,67.0
+Claudia,,30744009Q,Espanya,València,7.0,2.0,1968.0,Home,1510.0,Grup A,Analista senior,0.0,True,9639.0,,16.4,70.0,7.5,Mediterrani,medium,medium,45-59,False,8.0,1630.8,1510.0,23.3,1,58.0
+Claudia,Pujol,25917805F,Espanya,A Coruña,24.0,1.0,1977.0,Dona,951.0,Grup A,Analista,2.0,False,,,14.4,69.0,7.1,Oceànic,medium,medium,45-59,True,9.5,1041.34,317.0,15.09,1,49.0
+Simone,Barbieri Barbieri,33055043V,Itàlia,Napoli,10.0,4.0,2003.0,Prefereix no contestar,724.0,Grup A,Analista,0.0,,,,14.9,65.0,6.5,Mediterrani,low,low,18-29,False,5.5,763.82,724.0,11.75,0,23.0
+,,25145863X,Espanya,Madrid,14.0,4.0,1990.0,Prefereix no contestar,920.0,Grup A,Analista junior,3.0,True,80000.0,25.0,14.9,75.0,8.0,Continental,high,high,30-44,True,9.0,1002.8,230.0,13.37,2,36.0
+Pau,Muñoz,41255233J,Espanya,València,4.0,7.0,1996.0,Dona,1278.0,Grup A,Responsable de vendes,0.0,,,,17.1,70.0,7.5,Mediterrani,medium,medium,30-44,False,7.0,1367.46,1278.0,19.54,1,30.0
+Claudia,Hernández Navarro,40980376C,Espanya,Palma,16.0,8.0,1974.0,Dona,743.0,Grup A,Analista,2.0,,,,15.3,73.0,7.2,Mediterrani,medium,medium,45-59,True,9.5,813.58,247.67,11.14,1,52.0
+Alexia,,62221499S,Espanya,Murcia,10.0,3.0,1985.0,Home,1060.0,Grup A,Analista junior,0.0,True,80000.0,25.0,21.1,60.0,6.5,Mediterrani,low,low,30-44,False,6.5,1128.9,1060.0,18.82,1,41.0
+Sergio,,93906615X,Espanya,Bilbao,25.0,1.0,1995.0,Dona,1003.0,Grup A,Tècnic IT,0.0,False,,,13.352500000000001,72.0,7.8,Oceànic,medium,high,30-44,False,6.5,1068.2,1003.0,14.84,1,31.0
+Hugo,Fournier Michel,81918425Y,França,Nantes,27.0,2.0,1998.0,Dona,1280.0,Grup A,Cap de projecte,0.0,,,,12.8,74.36363636363636,7.615909090909091,,high,high,18-29,False,6.5,1363.2,1280.0,18.33,0,28.0
+Noa,Serra,72719315P,Espanya,Barcelona,22.0,4.0,1989.0,Prefereix no contestar,1281.0,Grup A,Tècnic IT,4.0,True,20000.0,5.8,14.2,78.0,8.5,Mediterrani,high,high,30-44,True,9.0,1396.29,256.2,17.9,2,37.0
+Lucas,Richard Fournier,35758531T,França,Bordeaux,5.0,2.0,1973.0,Dona,1125.0,Grup A,Analista senior,0.0,True,,,12.3,73.0,7.2,Oceànic,medium,medium,45-59,False,8.0,1215.0,1125.0,16.64,1,53.0
+Laia,Ferrer,49994087W,Espanya,Murcia,20.0,6.0,1963.0,Prefereix no contestar,1256.0,Grup A,Tècnic IT,2.0,,,,15.5,60.0,6.5,Mediterrani,low,low,60+,True,8.5,1362.76,418.67,22.71,1,63.0
+Guillem,Domènech,22112987F,Espanya,Las Palmas de Gran Canaria,16.0,5.0,1991.0,Home,881.0,Grup A,Analista junior,0.0,True,49000.0,0.5,22.7,62.0,6.8,Subtropical,low,low,30-44,False,6.5,938.26,881.0,15.13,1,35.0
+Xavier,Casals,58701586K,Espanya,Girona,21.0,5.0,1982.0,Dona,845.0,Grup A,Analista junior,0.0,False,,,-5.0,66.0,6.8,Mediterrani,low,low,30-44,False,6.5,899.92,845.0,13.64,1,44.0
+Aina,Pérez Muñoz,80576741J,Espanya,A Coruña,1.0,2.0,1994.0,Dona,1007.0,Grup A,Responsable de vendes,3.0,False,,,13.2,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,1092.6,251.75,15.83,2,32.0
+Ben,Koch,90293348E,Alemanya,Berlin,31.0,10.0,1980.0,Dona,1024.0,Grup A,Analista,3.0,,,,9.0,76.0,8.5,Continental,high,high,45-59,True,10.0,1126.4,256.0,14.82,2,46.0
+Oriol,Sánchez,37344675D,Espanya,Palma,3.0,6.0,1965.0,Dona,1250.0,Grup A,Analista,0.0,True,13833.0,5.4,17.26734693877551,73.0,7.2,Mediterrani,medium,medium,60+,False,7.5,1343.75,1250.0,18.41,1,61.0
+Claudia,Moreno,30813102S,Espanya,Barcelona,23.0,11.0,1999.0,Home,880.0,Grup A,Analista junior,0.0,,,,42.0,78.0,8.5,Mediterrani,high,high,18-29,False,6.5,937.2,880.0,12.02,0,27.0
+Alejandro,Torres Sánchez,69762583S,Espanya,Palma,23.0,12.0,1967.0,Dona,1090.0,Grup A,Responsable de vendes,,True,80000.0,25.0,18.0,73.0,7.2,Mediterrani,medium,medium,45-59,False,8.0,1177.2,,16.13,1,59.0
+Núria,Ruiz,90812511E,Espanya,Màlaga,30.0,6.0,2001.0,Dona,1287.0,Grup A,Responsable de vendes,3.0,True,15579.0,10.2,18.3,68.5,7.209797297297297,,medium,medium,18-29,True,7.5,1383.52,321.75,20.2,2,25.0
+Marc,Ramos,71355706A,Espanya,Girona,26.0,8.0,1961.0,Dona,1121.0,Grup A,Analista junior,,True,12947.0,13.6,14.8,66.0,6.8,Mediterrani,low,low,60+,False,7.0,1199.47,,18.17,1,65.0
+Claudia,Torres,28491507A,Espanya,Tarragona,11.0,6.0,1999.0,Home,1309.0,Grup A,Analista senior,4.0,,,,18.9,67.0,6.9,Mediterrani,low,low,18-29,True,7.0,1400.63,261.8,20.9,2,27.0
+Sergio,,14978636K,Espanya,Màlaga,25.0,7.0,1961.0,Dona,3000.0,Grup A,Analista,1.0,,,,18.1,68.5,7.209797297297297,,medium,medium,60+,True,9.0,3270.0,1500.0,47.74,1,65.0
+Hugo,Vila Sánchez,30576183A,Espanya,Madrid,17.0,1.0,1976.0,Prefereix no contestar,888.0,Grup A,Administratiu/va,2.0,,,,15.7,75.0,8.0,Continental,high,high,45-59,True,10.0,976.8,296.0,13.02,1,50.0
+Alba,Serra,53007542N,Espanya,Sevilla,20.0,9.0,1963.0,Dona,1092.0,Grup A,Analista,1.0,False,,,17.1,65.0,7.0,Mediterrani,low,low,60+,True,8.5,1184.82,546.0,18.23,1,63.0
+Alejandro,Gómez López,17907267L,Espanya,Bilbao,6.0,11.0,1984.0,Dona,718.0,Grup A,Administratiu/va,4.0,False,,,10.8,72.0,7.8,Oceànic,medium,high,30-44,True,8.0,775.44,143.6,10.77,2,42.0
+Hugo,Vidal Ramos,18137886X,Espanya,Tarragona,9.0,2.0,1982.0,Home,881.0,Grup A,Responsable de vendes,0.0,,,,20.1,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,938.26,881.0,14.0,1,44.0
+Noa,Casals Vidal,37307523G,Espanya,Las Palmas de Gran Canaria,17.0,11.0,1963.0,Dona,897.0,Grup A,Administratiu/va,,False,,,23.7,62.0,6.8,Subtropical,low,low,60+,False,7.0,959.79,,15.48,1,63.0
+Valentina,Marino,94853379Y,Itàlia,Roma,27.0,6.0,1982.0,Dona,1296.0,Grup A,Cap de projecte,1.0,,,,12.9,78.0,7.6,Mediterrani,high,high,30-44,True,9.0,1412.64,648.0,18.11,1,44.0
+Alexia,Casals,35902794Z,Espanya,Murcia,30.0,6.0,1987.0,Dona,1068.0,Grup A,Analista,0.0,,,,18.6,60.0,6.5,Mediterrani,low,low,30-44,False,6.5,1137.42,1068.0,18.96,1,39.0
+Noah,Schröder,91339562Y,Alemanya,Köln,23.0,12.0,1989.0,Dona,842.0,Grup A,Analista,0.0,True,43566.0,25.0,-5.0,77.87878787878788,8.036363636363635,,high,high,30-44,False,7.5,905.15,842.0,11.62,1,37.0
+Jordi,Serra,70924933T,Espanya,Valladolid,29.0,9.0,2001.0,Home,1438.0,Grup A,Tècnic IT,0.0,False,,,14.6,64.0,6.7,Continental,low,low,18-29,False,5.5,1517.09,1438.0,23.7,0,25.0
+Marie,Simon,17305854X,França,Paris,11.0,4.0,1988.0,Home,1507.0,Grup A,Analista senior,0.0,True,20000.0,5.7,12.2,85.0,9.0,Oceànic,high,high,30-44,False,7.5,1620.02,1507.0,19.06,1,38.0
+Hilde,Solberg,55056176R,Noruega,Trondheim,20.0,2.0,2001.0,Home,766.0,Grup A,Administratiu/va,0.0,,,,5.1,87.95454545454545,9.036363636363637,,high,high,18-29,False,6.5,815.79,766.0,9.28,0,25.0
+,Domènech,84449447A,Espanya,Zaragoza,1.0,6.0,1962.0,Dona,966.0,Grup A,Analista,0.0,True,72237.0,10.8,15.4,68.0,7.0,Continental,low,low,60+,False,7.0,1033.62,966.0,15.2,1,64.0
+Chiara,Rossi Marino,60858151C,Itàlia,Torino,5.0,11.0,1959.0,Home,821.0,Grup A,Analista junior,3.0,,,,42.0,74.0,7.2,Continental,high,medium,60+,True,10.0,903.1,205.25,12.2,2,67.0
+Marina,Pérez,60760544E,Espanya,Madrid,18.0,4.0,1970.0,Home,1021.0,Grup A,Administratiu/va,1.0,,,,14.4,75.0,8.0,Continental,high,high,45-59,True,10.0,1123.1,510.5,14.97,1,56.0
+Oriol,Hernández,37809859F,Espanya,Palma,2.0,11.0,1995.0,Dona,1060.0,Grup A,Analista senior,0.0,False,,,18.9,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,1134.2,1060.0,15.54,1,31.0
+Marta,Ruiz,70552489Z,Espanya,Las Palmas de Gran Canaria,14.0,6.0,1997.0,Home,1317.0,Grup A,Tècnic IT,2.0,False,,,22.4,62.0,6.8,Subtropical,low,low,18-29,True,7.0,1409.19,439.0,22.73,1,29.0
+Pol,Domènech,66061116Y,Espanya,Palma,14.0,4.0,1978.0,Prefereix no contestar,1030.0,Grup A,Responsable de vendes,0.0,,,,17.5,73.0,7.2,Mediterrani,medium,medium,45-59,False,8.0,1112.4,1030.0,15.24,1,48.0
+Thea,Lie,23933416W,Noruega,Stavanger,26.0,2.0,1964.0,Dona,847.0,Grup A,Cap de projecte,0.0,,,,7.0,87.95454545454545,9.036363636363637,,high,high,60+,False,8.0,914.76,847.0,10.4,1,62.0
+,Moreno,82001505J,Espanya,Barcelona,5.0,2.0,1968.0,Home,999.0,Grup A,Responsable de vendes,4.0,,,,20.1,78.0,8.5,Mediterrani,high,high,45-59,True,10.0,1098.9,199.8,14.09,2,58.0
+Ilaria,Colombo,29151794Z,Itàlia,Bologna,1.0,4.0,1975.0,Home,1012.0,Grup A,Analista junior,0.0,,,,12.1,74.32967032967034,7.1098901098901095,,high,medium,45-59,False,9.0,1103.08,1012.0,14.84,1,51.0
+Anna,Puig,92279159M,Espanya,Valladolid,13.0,5.0,2003.0,Dona,1222.0,Grup A,Tècnic IT,0.0,True,40723.0,25.0,9.8,64.0,6.7,Continental,low,low,18-29,False,5.5,1289.21,1222.0,20.14,0,23.0
+Pol,,28318112X,Espanya,Màlaga,4.0,5.0,1958.0,Home,778.0,Grup A,Analista,4.0,False,,,20.3,68.5,7.209797297297297,,medium,medium,60+,True,9.0,848.02,155.6,12.38,2,68.0
+Lars,Eriksen,35529407V,Noruega,Oslo,7.0,4.0,1964.0,Home,971.0,Grup A,Responsable de vendes,0.0,,,,7.1,90.0,9.2,Fred,high,high,60+,False,8.0,1048.68,971.0,11.65,1,62.0
+Henrik,Hagen,78113806Y,Noruega,Bergen,9.0,5.0,1959.0,Dona,1015.0,Grup A,Tècnic IT,4.0,False,,,10.2,85.0,8.8,Oceànic,high,high,60+,True,9.5,1111.42,203.0,13.08,2,67.0
+Manon,David Lefebvre,82101452G,França,Lille,20.0,5.0,1963.0,Dona,985.0,Grup A,Analista,,True,60652.0,25.0,9.8,71.0,7.3,Continental,medium,medium,60+,False,7.5,1058.88,,14.91,1,63.0
+Joana,Muñoz,42528051S,Espanya,Valladolid,8.0,12.0,1985.0,Dona,956.0,Grup A,Analista,2.0,False,,,13.4,64.0,6.7,Continental,low,low,30-44,True,8.0,1032.48,318.67,16.13,1,41.0
+Giorgio,Ferrari Marino,74142265S,Itàlia,Milano,8.0,10.0,1959.0,Dona,995.0,Grup A,Analista junior,0.0,,,,12.6,80.0,7.5,Continental,high,medium,60+,False,8.5,1079.58,995.0,13.49,1,67.0
+Alexia,Hernández,55171003B,Espanya,Las Palmas de Gran Canaria,14.0,10.0,1979.0,Prefereix no contestar,1099.0,Grup A,Cap de projecte,0.0,False,,,19.8,62.0,6.8,Subtropical,low,low,45-59,False,7.5,1181.42,1099.0,19.06,1,47.0
+Oriol,,38268009F,Espanya,Sevilla,27.0,3.0,1979.0,Home,1083.0,Grup A,Cap de projecte,0.0,,,,19.0725,65.0,7.0,Mediterrani,low,low,45-59,False,7.5,1164.22,1083.0,17.91,1,47.0
+Antoine,David,47988968D,França,Nantes,17.0,2.0,1983.0,Dona,1261.0,Grup A,Analista senior,1.0,True,94969.0,0.5,9.7,74.36363636363636,7.615909090909091,,high,high,30-44,True,9.0,1374.49,630.5,18.48,1,43.0
+Irene,Gil,79645728H,Espanya,Barcelona,3.0,8.0,1991.0,Dona,885.0,Grup A,Analista junior,1.0,True,31309.0,12.1,13.2,78.0,8.5,Mediterrani,high,high,30-44,True,9.0,964.65,442.5,12.37,1,35.0
+Francesca,Esposito,98336655T,Itàlia,Roma,14.0,3.0,1992.0,Dona,1552.0,Grup A,Analista senior,1.0,,,,13.4,78.0,7.6,Mediterrani,high,high,30-44,True,9.0,1691.68,776.0,21.69,1,34.0
+Aina,,67088619E,Espanya,Bilbao,9.0,2.0,1987.0,Dona,896.0,Grup A,Analista,0.0,,,,12.8,72.0,7.8,Oceànic,medium,high,30-44,False,6.5,954.24,896.0,13.25,1,39.0
+,Romero,91014793F,Espanya,A Coruña,1.0,7.0,1985.0,Dona,842.0,Grup A,Analista junior,1.0,False,,,15.4,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,913.57,421.0,13.24,1,41.0
+Oriol,,26960874G,Espanya,Zaragoza,22.0,3.0,2003.0,Dona,860.0,Grup A,Tècnic IT,0.0,True,95003.0,0.5,15.8,68.0,7.0,Continental,low,low,18-29,False,5.5,907.3,860.0,13.34,0,23.0
+Oriol,Soler,27103900X,Espanya,Sevilla,16.0,9.0,1989.0,Home,1450.0,Grup A,Tècnic IT,1.0,True,80000.0,13.0,22.6,65.0,7.0,Mediterrani,low,low,30-44,True,8.0,1566.0,725.0,24.09,1,37.0
+Aina,Fernández,16839113N,Espanya,Barcelona,3.0,4.0,1997.0,Dona,1800.0,Grup A,Tècnic IT,4.0,False,,,16.7,78.0,8.5,Mediterrani,high,high,18-29,True,8.0,1944.0,360.0,24.92,2,29.0
+Joana,Romero Ribera,98641515X,Espanya,Màlaga,2.0,1.0,1960.0,Home,1177.0,Grup A,Analista senior,4.0,False,,,22.3,68.5,7.209797297297297,,medium,medium,60+,True,9.0,1282.93,235.4,18.73,2,66.0
+Thomas,Vincent,88427071N,França,Nantes,7.0,5.0,1999.0,Home,864.0,Grup A,Analista junior,1.0,,,,10.7,74.36363636363636,7.615909090909091,,high,high,18-29,True,8.0,933.12,432.0,12.55,1,27.0
+Xavier,Ramos,27305260D,Espanya,Las Palmas de Gran Canaria,31.0,12.0,1975.0,Home,845.0,Grup A,Analista,0.0,,,,21.325,62.0,6.8,Subtropical,low,low,45-59,False,7.5,908.38,845.0,14.65,1,51.0
+Aina,Puig Vila,38182016V,Espanya,Alacant,27.0,4.0,1999.0,Dona,3000.0,Grup A,Analista junior,1.0,True,80000.0,5.8,16.3,68.0,7.0,Mediterrani,low,low,18-29,True,7.0,3210.0,1500.0,47.21,1,27.0
+Xavier,Hernández,29950518C,Espanya,Màlaga,28.0,1.0,1962.0,Dona,1031.0,Grup A,Analista,0.0,True,71500.0,14.0,19.8,68.5,7.209797297297297,,medium,medium,60+,False,7.5,1108.32,1031.0,16.18,1,64.0
+Adrià,Torres,97772249F,Espanya,Palma,5.0,6.0,1998.0,Home,1148.0,Grup A,Tècnic IT,0.0,,,,17.8,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,1216.88,1148.0,16.67,0,28.0
+Adrià,Ferrer,59858951C,Espanya,Tarragona,10.0,5.0,1987.0,Dona,774.0,Grup A,Tècnic IT,0.0,False,,,13.6,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,824.31,774.0,12.3,1,39.0
+Anna,Domènech,68131630Y,Espanya,Las Palmas de Gran Canaria,13.0,2.0,2004.0,Dona,1572.28,Grup A,Tècnic IT,4.0,False,,,21.325,62.0,6.8,Subtropical,low,low,18-29,True,7.0,1682.34,314.46,27.13,2,22.0
+Chloé,Vincent,52481963T,França,Toulouse,27.0,12.0,2004.0,Dona,1263.0,Grup A,Analista,4.0,,,,16.6,74.36363636363636,7.615909090909091,,high,high,18-29,True,8.0,1364.04,252.6,18.34,2,22.0
+Anna,,71202946J,Espanya,Bilbao,21.0,8.0,2002.0,Prefereix no contestar,1317.0,Grup A,Tècnic IT,0.0,True,80000.0,25.0,12.7,72.0,7.8,Oceànic,medium,high,18-29,False,5.5,1389.44,1317.0,19.3,0,24.0
+Chiara,Ricci,73025187A,Itàlia,Genova,28.0,4.0,1965.0,Prefereix no contestar,1205.0,Grup A,Administratiu/va,0.0,False,,,13.2,72.0,6.9,Mediterrani,medium,low,60+,False,8.0,1301.4,1205.0,18.08,1,61.0
+Pol,Gómez Moreno,26955763Q,Espanya,Zaragoza,4.0,4.0,1985.0,Prefereix no contestar,1121.0,Grup A,Analista junior,0.0,True,23129.0,25.0,17.7,68.0,7.0,Continental,low,low,30-44,False,6.5,1193.86,1121.0,17.56,1,41.0
+Noa,,89979598A,Espanya,València,15.0,2.0,1964.0,Dona,1113.0,Grup A,Analista junior,0.0,True,50000.0,0.5,17.448148148148146,70.0,7.5,Mediterrani,medium,medium,60+,False,7.5,1196.47,1113.0,17.09,1,62.0
+Aina,,37626276S,Espanya,Girona,26.0,3.0,1977.0,Home,1120.0,Grup A,Tècnic IT,0.0,False,,,16.5,66.0,6.8,Mediterrani,low,low,45-59,False,7.5,1204.0,1120.0,18.24,1,49.0
+Núria,Vidal,48066060L,Espanya,Sevilla,13.0,2.0,1993.0,Home,1047.0,Grup A,Analista senior,0.0,,,,17.6,65.0,7.0,Mediterrani,low,low,30-44,False,6.5,1115.05,1047.0,17.15,1,33.0
+Sofie,Johnsen,59943747Z,Noruega,Tromsø,13.0,10.0,1969.0,Dona,858.0,Grup A,Administratiu/va,0.0,False,,,0.0,87.95454545454545,9.036363636363637,,high,high,45-59,False,8.5,930.93,858.0,10.58,1,57.0
+Clara,Moreau,60184824L,França,Paris,27.0,2.0,1999.0,Dona,1034.0,Grup A,Cap de projecte,0.0,True,14527.0,,12.450000000000001,85.0,9.0,Oceànic,high,high,18-29,False,6.5,1101.21,1034.0,12.96,0,27.0
+Oriol,Soler,22321103P,Espanya,A Coruña,8.0,8.0,2004.0,Home,1212.0,Grup A,Cap de projecte,2.0,True,42899.0,0.5,14.8,69.0,7.1,Oceànic,medium,medium,18-29,True,7.5,1302.9,404.0,18.88,1,22.0
+Alba,Vidal,70937796C,Espanya,Sevilla,23.0,5.0,1978.0,Prefereix no contestar,797.0,Grup A,Analista,4.0,,,,15.6,65.0,7.0,Mediterrani,low,low,45-59,True,9.0,868.73,159.4,13.37,2,48.0
+Marina,,35427499N,Espanya,Màlaga,10.0,4.0,1985.0,Dona,1151.0,Grup A,Analista,0.0,True,16390.0,12.1,17.3,68.5,7.209797297297297,,medium,medium,30-44,False,7.0,1231.57,1151.0,17.98,1,41.0
+Anna,Costa,46006180S,Espanya,Sevilla,8.0,2.0,1983.0,Dona,1194.0,Grup A,Analista senior,0.0,,,,-5.0,65.0,7.0,Mediterrani,low,low,30-44,False,6.5,1271.61,1194.0,19.56,1,43.0
+Marina,Hernández,45609215K,Espanya,Valladolid,6.0,9.0,1986.0,Home,989.0,Grup A,Administratiu/va,0.0,,,,10.5,64.0,6.7,Continental,low,low,30-44,False,6.5,1053.28,989.0,16.46,1,40.0
+Marina,Romero,11118688S,Espanya,A Coruña,4.0,5.0,1980.0,Prefereix no contestar,922.0,Grup A,Analista,0.0,False,,,13.3,69.0,7.1,Oceànic,medium,medium,45-59,False,8.0,995.76,922.0,14.43,1,46.0
+Laia,Torres Romero,28484302B,Espanya,Madrid,9.0,1.0,1958.0,Home,1341.0,Grup A,Cap de projecte,0.0,True,14892.0,,15.0,75.0,8.0,Continental,high,high,60+,False,8.0,1448.28,1341.0,19.31,1,68.0
+Adrià,,51706253M,Espanya,Zaragoza,20.0,5.0,1974.0,Dona,1027.0,Grup A,Tècnic IT,0.0,,,,15.0,68.0,7.0,Continental,low,low,45-59,False,7.5,1104.02,1027.0,16.24,1,52.0
+Sara,Puig,28603902Q,Espanya,Bilbao,4.0,7.0,1982.0,Dona,1155.0,Grup A,Responsable de vendes,0.0,False,,,13.352500000000001,72.0,7.8,Oceànic,medium,high,30-44,False,6.5,1230.08,1155.0,17.08,1,44.0
+Marc,Soler,29016797K,Espanya,Palma,6.0,1.0,1998.0,Dona,1399.0,Grup A,Analista senior,0.0,,,,15.9,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,1482.94,1399.0,20.31,0,28.0
+Luca,Moretti,58037222W,Itàlia,Napoli,13.0,5.0,1976.0,Dona,874.0,Grup A,Analista,0.0,True,20000.0,9.2,15.6,65.0,6.5,Mediterrani,low,low,45-59,False,7.5,939.55,874.0,14.45,1,50.0
+Sergio,Ribera,99031467R,Espanya,Sevilla,11.0,12.0,1993.0,Home,1517.0,Grup A,Analista,0.0,True,29278.0,11.7,20.8,65.0,7.0,Mediterrani,low,low,30-44,False,6.5,1615.6,1517.0,24.86,1,33.0
+Zoé,Durand,17429830T,França,Nice,1.0,4.0,1977.0,Dona,1461.0,Grup A,Analista senior,,False,,,15.2,74.36363636363636,7.615909090909091,,high,high,45-59,False,8.5,1585.18,,21.32,1,49.0
+Anna,Ruiz,26425076K,Espanya,Valladolid,22.0,8.0,1983.0,Dona,842.0,Grup A,Analista junior,0.0,False,,,12.7,64.0,6.7,Continental,low,low,30-44,False,6.5,896.73,842.0,14.01,1,43.0
+Pau,,58356895X,Espanya,Zaragoza,26.0,10.0,1978.0,Dona,1028.0,Grup A,Tècnic IT,1.0,True,21062.0,,15.4,68.0,7.0,Continental,low,low,45-59,True,9.0,1120.52,514.0,16.48,1,48.0
+Emil,Hansen,16003970L,Noruega,Trondheim,23.0,9.0,1980.0,Home,1015.0,Grup A,Analista senior,0.0,,,,3.9,87.95454545454545,9.036363636363637,,high,high,45-59,False,8.5,1101.27,1015.0,12.52,1,46.0
+David,Ruiz,91274963P,Espanya,Alacant,5.0,11.0,1995.0,Home,931.0,Grup A,Cap de projecte,0.0,,,,17.23428571428571,68.0,7.0,Mediterrani,low,low,30-44,False,6.5,991.52,931.0,14.58,1,31.0
+Marina,Puig Hernández,78276312M,Espanya,Tarragona,27.0,9.0,1971.0,Dona,770.0,Grup A,Analista,4.0,True,80000.0,0.5,17.3,67.0,6.9,Mediterrani,low,low,45-59,True,9.0,839.3,154.0,12.53,2,55.0
+Marco,Esposito Mancini,99753485A,Itàlia,Bologna,9.0,3.0,1963.0,Home,1078.0,Grup A,Administratiu/va,1.0,False,,,15.3,74.32967032967034,7.1098901098901095,,high,medium,60+,True,10.0,1185.8,539.0,15.95,1,63.0
+,Roca Muñoz,25081699D,Espanya,Palma,8.0,2.0,1976.0,Dona,943.0,Grup A,Tècnic IT,4.0,,,,17.3,73.0,7.2,Mediterrani,medium,medium,45-59,True,9.5,1032.58,188.6,14.14,2,50.0
+Elias,Lie,12781968G,Noruega,Trondheim,21.0,12.0,1991.0,Home,1139.0,Grup A,Tècnic IT,1.0,False,,,3.9,87.95454545454545,9.036363636363637,,high,high,30-44,True,9.0,1241.51,569.5,14.12,1,35.0
+Laia,,46568726A,Espanya,Palma,2.0,4.0,2002.0,Dona,958.0,Grup A,Tècnic IT,0.0,,,,19.8,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,1015.48,958.0,13.91,0,24.0
+Arthur,Michel,42831540N,França,Lyon,17.0,9.0,2002.0,Dona,1081.0,Grup A,Analista,0.0,,,,10.7,74.0,7.6,Continental,high,high,18-29,False,6.5,1151.26,1081.0,15.56,0,24.0
+Marc,Ferrer,20402470N,Espanya,Las Palmas de Gran Canaria,23.0,7.0,1964.0,Prefereix no contestar,929.0,Grup A,Analista,4.0,True,50000.0,0.5,20.3,62.0,6.8,Subtropical,low,low,60+,True,8.5,1007.96,185.8,16.26,2,62.0
+Irene,Moreno,92662979K,Espanya,Tarragona,31.0,5.0,1996.0,Dona,2000.0,Grup A,Responsable de vendes,0.0,False,,,17.3,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,2130.0,2000.0,31.79,1,30.0
+,Navarro Torres,85181407N,Espanya,Las Palmas de Gran Canaria,8.0,2.0,1990.0,Home,1254.0,Grup A,Tècnic IT,0.0,,,,25.5,62.0,6.8,Subtropical,low,low,30-44,False,6.5,1335.51,1254.0,21.54,1,36.0
+Núria,Vidal Costa,94486312B,Espanya,València,4.0,12.0,1978.0,Dona,868.0,Grup A,Analista,3.0,False,,,20.5,70.0,7.5,Mediterrani,medium,medium,45-59,True,9.5,950.46,217.0,13.58,2,48.0
+Sara,,60092039L,Espanya,A Coruña,24.0,5.0,1973.0,Prefereix no contestar,901.0,Grup A,Administratiu/va,0.0,,,,17.4,69.0,7.1,Oceànic,medium,medium,45-59,False,8.0,973.08,901.0,14.1,1,53.0
+Sara,,90108005E,Espanya,Bilbao,29.0,5.0,1968.0,Home,1407.0,Grup A,Analista senior,0.0,False,,,18.8,72.0,7.8,Oceànic,medium,high,45-59,False,7.5,1512.52,1407.0,21.01,1,58.0
+Núria,Serra Puig,27921592N,Espanya,Murcia,25.0,6.0,1966.0,Dona,1199.0,Grup A,Administratiu/va,0.0,False,,,16.4,60.0,6.5,Mediterrani,low,low,60+,False,7.0,1282.93,1199.0,21.38,1,60.0
+,Pujol Muñoz,63442916W,Espanya,A Coruña,20.0,10.0,1958.0,Dona,889.0,Grup A,Analista senior,4.0,False,,,11.6,69.0,7.1,Oceànic,medium,medium,60+,True,9.0,969.01,177.8,14.04,2,68.0
+Adrià,Gómez Soler,21091816B,Espanya,Bilbao,26.0,8.0,1964.0,Prefereix no contestar,830.0,Grup A,Cap de projecte,1.0,False,,,10.9,72.0,7.8,Oceànic,medium,high,60+,True,8.5,900.55,415.0,12.51,1,62.0
+Marina,Costa,73558440E,Espanya,Valladolid,25.0,6.0,1990.0,Home,1234.0,Grup A,Administratiu/va,4.0,False,,,12.3,64.0,6.7,Continental,low,low,30-44,True,8.0,1332.72,246.8,20.82,2,36.0
+Alba,Costa,15347831A,Espanya,Las Palmas de Gran Canaria,10.0,8.0,1961.0,Home,903.0,Grup A,Analista,3.0,True,,,20.8,62.0,6.8,Subtropical,low,low,60+,True,8.5,979.76,225.75,15.8,2,65.0
+Marina,,50531871J,Espanya,Alacant,24.0,11.0,1979.0,Dona,1025.0,Grup A,Tècnic IT,0.0,True,74741.0,25.0,18.5,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1101.88,1025.0,16.2,1,47.0
+Marie,Michel Martin,75868272F,França,Nantes,24.0,9.0,1976.0,Dona,866.0,Grup A,Tècnic IT,0.0,True,80000.0,0.5,11.4,74.36363636363636,7.615909090909091,,high,high,45-59,False,8.5,939.61,866.0,12.64,1,50.0
+,Soler,65068702Y,Espanya,Valladolid,14.0,7.0,1999.0,Home,863.0,Grup A,Analista,0.0,False,,,12.8,64.0,6.7,Continental,low,low,18-29,False,5.5,910.46,863.0,14.23,0,27.0
+Jordi,Ferrer,35908259M,Espanya,Màlaga,17.0,9.0,1982.0,Dona,1253.0,Grup A,Responsable de vendes,0.0,False,,,21.8,68.5,7.209797297297297,,medium,medium,30-44,False,7.0,1340.71,1253.0,19.57,1,44.0
+Irene,Torres,88803982Q,Espanya,Las Palmas de Gran Canaria,5.0,11.0,1980.0,Home,956.0,Grup A,Administratiu/va,0.0,False,,,21.2,62.0,6.8,Subtropical,low,low,45-59,False,7.5,1027.7,956.0,16.58,1,46.0
+Hugo,Pujol,71649116H,Espanya,Bilbao,16.0,6.0,1970.0,Home,1278.0,Grup A,Analista,0.0,True,28115.0,,9.9,72.0,7.8,Oceànic,medium,high,45-59,False,7.5,1373.85,1278.0,19.08,1,56.0
+Marie,Robert Petit,98931424M,França,Toulouse,20.0,3.0,1968.0,Prefereix no contestar,1029.0,Grup A,Administratiu/va,3.0,False,,,13.538461538461538,74.36363636363636,7.615909090909091,,high,high,45-59,True,10.0,1131.9,257.25,15.22,2,58.0
+Alba,,64234848R,Espanya,Màlaga,1.0,7.0,1983.0,Dona,3000.0,Grup A,Tècnic IT,2.0,,,,14.8,68.5,7.209797297297297,,medium,medium,30-44,True,8.5,3255.0,1000.0,47.52,1,43.0
+Alessia,Mancini,38854107L,Itàlia,Roma,7.0,12.0,1993.0,Dona,775.0,Grup A,Responsable de vendes,4.0,,,,16.1,78.0,7.6,Mediterrani,high,high,30-44,True,9.0,844.75,155.0,10.83,2,33.0
+Alexia,Soler Puig,88666938N,Espanya,Barcelona,20.0,5.0,1973.0,Dona,856.0,Grup A,Analista,0.0,True,80000.0,25.0,16.1,78.0,8.5,Mediterrani,high,high,45-59,False,8.5,928.76,856.0,11.91,1,53.0
+Aina,Costa,67355386N,Espanya,Bilbao,14.0,11.0,1965.0,Prefereix no contestar,1315.0,Grup A,Responsable de vendes,0.0,False,,,-5.0,72.0,7.8,Oceànic,medium,high,60+,False,7.0,1407.05,1315.0,19.54,1,61.0
+Sergio,Roca López,31236454Q,Espanya,A Coruña,18.0,2.0,1993.0,Home,1035.0,Grup A,Analista junior,1.0,False,,,17.3,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,1122.97,517.5,16.27,1,33.0
+Anna,Ribera,51403708M,Espanya,Màlaga,7.0,3.0,1970.0,Dona,1102.0,Grup A,Analista junior,0.0,False,,,18.3,68.5,7.209797297297297,,medium,medium,45-59,False,8.0,1190.16,1102.0,17.37,1,56.0
+Carmen,Puig,69007608A,Espanya,Bilbao,29.0,3.0,1959.0,Dona,1368.0,Grup A,Tècnic IT,4.0,True,26936.0,25.0,15.2,72.0,7.8,Oceànic,medium,high,60+,True,8.5,1484.28,273.6,20.62,2,67.0
+Carlos,Sánchez,65717519Y,Espanya,Tarragona,11.0,12.0,1980.0,Prefereix no contestar,1469.0,Grup A,Analista senior,1.0,True,65950.0,,15.8,67.0,6.9,Mediterrani,low,low,45-59,True,9.0,1601.21,734.5,23.9,1,46.0
+Guillem,Serra Torres,39435441Q,Espanya,A Coruña,5.0,4.0,1994.0,Home,860.0,Grup A,Analista,0.0,,,,15.6,69.0,7.1,Oceànic,medium,medium,30-44,False,7.0,920.2,860.0,13.34,1,32.0
+Marc,Muñoz Vila,38834825Z,Espanya,Palma,15.0,7.0,1994.0,Home,1105.0,Grup A,Cap de projecte,0.0,True,20000.0,8.2,19.1,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,1182.35,1105.0,16.2,1,32.0
+Alessandro,Barbieri,59046143J,Itàlia,Milano,19.0,5.0,2001.0,Dona,701.0,Grup A,Analista,0.0,,,,15.4,80.0,7.5,Continental,high,medium,18-29,False,7.0,750.07,701.0,9.38,0,25.0
+Katharina,Schröder Wolf,91877605Z,Alemanya,München,24.0,9.0,1965.0,Dona,958.0,Grup A,Analista,3.0,False,,,8.7,82.0,8.0,Continental,high,high,60+,True,9.5,1049.01,239.5,12.79,2,61.0
+Oriol,Ruiz,23954006E,Espanya,Tarragona,9.0,11.0,1985.0,Dona,1314.0,Grup A,Responsable de vendes,,True,8460.0,,17.9,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,1399.41,,20.89,1,41.0
+Adrià,Domènech Ferrer,71839874H,Espanya,A Coruña,28.0,8.0,1999.0,Dona,1184.0,Grup A,Analista,0.0,True,80000.0,4.5,12.9,69.0,7.1,Oceànic,medium,medium,18-29,False,6.0,1255.04,1184.0,18.19,0,27.0
+Antoine,Laurent Durand,28051318X,França,Bordeaux,23.0,2.0,1980.0,Prefereix no contestar,1227.0,Grup A,Analista senior,0.0,True,80657.0,6.6,13.0,73.0,7.2,Oceànic,medium,medium,45-59,False,8.0,1325.16,1227.0,18.15,1,46.0
+Pol,Gómez,34325365T,Espanya,Zaragoza,27.0,3.0,1996.0,Home,933.0,Grup A,Responsable de vendes,4.0,False,,,15.6,68.0,7.0,Continental,low,low,30-44,True,8.0,1007.64,186.6,14.82,2,30.0
+Jordi,Costa Gil,49115199A,Espanya,Palma,30.0,5.0,1965.0,Home,1075.0,Grup A,Administratiu/va,2.0,,,,42.0,73.0,7.2,Mediterrani,medium,medium,60+,True,9.0,1171.75,358.33,16.05,1,61.0
+Laia,Navarro,15909601K,Espanya,Bilbao,30.0,5.0,1958.0,Dona,1676.0,Grup A,Analista,1.0,True,50.0,,14.2,72.0,7.8,Oceànic,medium,high,60+,True,8.5,1818.46,838.0,25.26,1,68.0
+Laia,,68224195Q,Espanya,Girona,2.0,9.0,1980.0,Home,1297.0,Grup A,Analista,4.0,True,44563.0,25.0,17.2,66.0,6.8,Mediterrani,low,low,45-59,True,9.0,1413.73,259.4,21.42,2,46.0
+Julien,Moreau Durand,40651547B,França,Toulouse,13.0,3.0,1979.0,Dona,1099.0,Grup A,Tècnic IT,4.0,,,,-10.0,74.36363636363636,7.615909090909091,,high,high,45-59,True,10.0,1208.9,219.8,16.26,2,47.0
+Pol,Puig Serra,35433791S,Espanya,Valladolid,9.0,7.0,1984.0,Home,1431.0,Grup A,Cap de projecte,0.0,,,,12.5,64.0,6.7,Continental,low,low,30-44,False,6.5,1524.02,1431.0,23.81,1,42.0
+Laia,Domènech López,92586963B,Espanya,Sevilla,14.0,4.0,1962.0,Dona,1098.0,Grup A,Responsable de vendes,0.0,,,,19.1,65.0,7.0,Mediterrani,low,low,60+,False,7.0,1174.86,1098.0,18.07,1,64.0
+Pol,Soler,64788762B,Espanya,Murcia,28.0,9.0,1987.0,Dona,1138.0,Grup A,Cap de projecte,,True,107311.0,0.5,16.9,60.0,6.5,Mediterrani,low,low,30-44,False,6.5,1211.97,,20.2,1,39.0
+Carlos,,30918595C,Espanya,Girona,25.0,10.0,2001.0,Dona,1201.0,Grup A,Tècnic IT,2.0,True,33895.0,7.7,12.2,66.0,6.8,Mediterrani,low,low,18-29,True,7.0,1285.07,400.33,19.47,1,25.0
+Laia,Moreno,30213583Y,Espanya,Murcia,24.0,4.0,1980.0,Dona,1200.0,Grup A,Cap de projecte,0.0,,,,20.5,60.0,6.5,Mediterrani,low,low,45-59,False,7.5,1290.0,1200.0,21.5,1,46.0
+David,Gómez,92985330J,Espanya,Tarragona,18.0,2.0,1984.0,Prefereix no contestar,1184.0,Grup A,Analista,2.0,,,,38.0,67.0,6.9,Mediterrani,low,low,30-44,True,8.0,1278.72,394.67,19.09,1,42.0
+Federico,Giordano Romano,58638387Z,Itàlia,Torino,27.0,12.0,1995.0,Home,857.0,Grup A,Analista,0.0,False,,,10.6,74.0,7.2,Continental,high,medium,30-44,False,8.0,925.56,857.0,12.51,1,31.0
+Xavier,Casals,21149828B,Espanya,Madrid,10.0,6.0,1998.0,Dona,976.0,Grup A,Responsable de vendes,1.0,,,,15.091666666666669,75.0,8.0,Continental,high,high,18-29,True,8.0,1054.08,488.0,14.05,1,28.0
+Alejandro,Vidal,11804855X,Espanya,Madrid,24.0,1.0,1962.0,Dona,1219.0,Grup A,Analista junior,1.0,True,11090.0,5.0,14.8,75.0,8.0,Continental,high,high,60+,True,9.5,1334.8,609.5,17.8,1,64.0
+Arthur,Bertrand Leroy,18426588S,França,Nantes,2.0,2.0,1968.0,Home,824.0,Grup A,Administratiu/va,0.0,,,,13.9,74.36363636363636,7.615909090909091,,high,high,45-59,False,8.5,894.04,824.0,12.02,1,58.0
+Joana,Muñoz Ribera,72329716Z,Espanya,Barcelona,28.0,8.0,1983.0,Dona,940.0,Grup A,Analista,0.0,,,,15.3,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1010.5,940.0,12.96,1,43.0
+Hugo,Sánchez,27197789B,Espanya,Zaragoza,12.0,12.0,1979.0,Dona,1012.0,Grup A,Responsable de vendes,0.0,False,,,15.317073170731707,68.0,7.0,Continental,low,low,45-59,False,7.5,1087.9,1012.0,16.0,1,47.0
+Alexia,Fernández,17921698S,Espanya,Zaragoza,28.0,6.0,1967.0,Dona,1110.0,Grup A,Analista senior,0.0,False,,,17.3,68.0,7.0,Continental,low,low,45-59,False,7.5,1193.25,1110.0,17.55,1,59.0
+Noa,Fernández,18128621Y,Espanya,Tarragona,24.0,5.0,1965.0,Dona,1258.0,Grup A,Cap de projecte,3.0,False,,,18.3,67.0,6.9,Mediterrani,low,low,60+,True,8.5,1364.93,314.5,20.37,2,61.0
+Sergio,López Pujol,80421269J,Espanya,Màlaga,2.0,9.0,1983.0,Dona,1030.0,Grup A,Tècnic IT,0.0,False,,,15.1,68.5,7.209797297297297,,medium,medium,30-44,False,7.0,1102.1,1030.0,16.09,1,43.0
+Alba,,28478172Q,Espanya,Valladolid,31.0,3.0,1972.0,Home,1192.0,Grup A,Administratiu/va,3.0,,,,10.0,64.0,6.7,Continental,low,low,45-59,True,9.0,1299.28,298.0,20.3,2,54.0
+Sara,Serra,18493813E,Espanya,Alacant,16.0,10.0,2002.0,Dona,1177.0,Grup A,Cap de projecte,0.0,True,80000.0,12.8,18.4,68.0,7.0,Mediterrani,low,low,18-29,False,5.5,1241.73,1177.0,18.26,0,24.0
+Guillem,Gómez,53686165B,Espanya,Las Palmas de Gran Canaria,4.0,8.0,1979.0,Dona,1260.0,Grup A,Tècnic IT,4.0,True,30000.0,12.7,21.3,62.0,6.8,Subtropical,low,low,45-59,True,9.0,1373.4,252.0,22.15,2,47.0
+Nicolas,Robert,64508486D,França,Lyon,25.0,4.0,1977.0,Dona,918.0,Grup A,Analista senior,1.0,,,,8.4,74.0,7.6,Continental,high,high,45-59,True,10.0,1009.8,459.0,13.65,1,49.0
+Laia,Moreno Pujol,65110751A,Espanya,Palma,20.0,4.0,1986.0,Home,1117.0,Grup A,Analista,,True,20000.0,8.4,20.3,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,1195.19,,16.37,1,40.0
+Felix,Richter,31742644W,Alemanya,Stuttgart,1.0,2.0,1966.0,Home,3000.0,Grup A,Analista,,,,,7.7,79.0,7.9,Continental,high,high,60+,False,8.0,3240.0,,41.01,1,60.0
+Alessandro,Colombo Bianchi,18052256Q,Itàlia,Roma,12.0,1.0,1983.0,Dona,896.0,Grup A,Analista,2.0,True,62991.0,11.7,14.2,78.0,7.6,Mediterrani,high,high,30-44,True,9.0,976.64,298.67,12.52,1,43.0
+Oriol,Ramos,85187117K,Espanya,Murcia,23.0,10.0,2002.0,Home,952.0,Grup A,Analista,1.0,True,80000.0,25.0,14.9,60.0,6.5,Mediterrani,low,low,18-29,True,7.0,1018.64,476.0,16.98,1,24.0
+Paul,Roux Garcia,49119248C,França,Nantes,24.0,2.0,1969.0,Dona,1432.0,Grup A,Analista senior,0.0,False,,,9.0,74.36363636363636,7.615909090909091,,high,high,45-59,False,8.5,1553.72,1432.0,20.89,1,57.0
+Marta,Pujol,83617175V,Espanya,Madrid,4.0,5.0,1962.0,Dona,1595.0,Grup A,Cap de projecte,,True,80000.0,10.7,15.9,75.0,8.0,Continental,high,high,60+,False,8.0,1722.6,,22.97,1,64.0
+Paul,Laurent,39510761M,França,Bordeaux,11.0,10.0,1993.0,Dona,746.0,Grup A,Tècnic IT,0.0,True,65983.0,11.6,-5.0,73.0,7.2,Oceànic,medium,medium,30-44,False,7.0,798.22,746.0,10.93,1,33.0
+Oriol,,70699404E,Espanya,Alacant,3.0,12.0,1999.0,Home,906.0,Grup A,Analista,0.0,True,,,21.4,68.0,7.0,Mediterrani,low,low,18-29,False,5.5,955.83,906.0,14.06,0,27.0
+Giorgio,Lombardi,36224131L,Itàlia,Torino,1.0,4.0,1968.0,Dona,947.0,Grup A,Analista junior,4.0,False,,,10.1,74.0,7.2,Continental,high,medium,45-59,True,10.5,1046.44,189.4,14.14,2,58.0
+Sergio,Vila Hernández,17630287N,Espanya,Barcelona,17.0,9.0,1959.0,Dona,817.0,Grup A,Analista,0.0,False,,,14.7,78.0,8.5,Mediterrani,high,high,60+,False,8.0,882.36,817.0,11.31,1,67.0
+Maja,Nilsen,62978421F,Noruega,Bergen,4.0,12.0,1978.0,Home,796.0,Grup A,Analista,0.0,True,114489.0,10.0,9.5,85.0,8.8,Oceànic,high,high,45-59,False,8.5,863.66,796.0,10.16,1,48.0
+,Costa,79390232H,Espanya,Màlaga,2.0,6.0,1976.0,Dona,1121.0,Grup A,Analista junior,0.0,True,65983.0,12.4,17.2,68.5,7.209797297297297,,medium,medium,45-59,False,8.0,1210.68,1121.0,17.67,1,50.0
+Hugo,,27843176Y,Espanya,Madrid,31.0,1.0,1977.0,Home,1001.0,Grup A,Tècnic IT,0.0,True,80000.0,13.1,11.6,75.0,8.0,Continental,high,high,45-59,False,8.5,1086.08,1001.0,14.48,1,49.0
+Guillem,Torres Soler,59944615S,Espanya,Alacant,24.0,10.0,1979.0,Home,1390.0,Grup A,Cap de projecte,0.0,,,,18.1,68.0,7.0,Mediterrani,low,low,45-59,False,7.5,1494.25,1390.0,21.97,1,47.0
+Nil,Pérez Costa,79107561A,Espanya,A Coruña,25.0,11.0,1968.0,Home,1193.0,Grup A,Responsable de vendes,0.0,False,,,13.7,69.0,7.1,Oceànic,medium,medium,45-59,False,8.0,1288.44,1193.0,18.67,1,58.0
+Sara,Gil Pujol,64671752H,Espanya,Girona,1.0,6.0,1976.0,Dona,1163.0,Grup A,Analista junior,0.0,,,,14.8,66.0,6.8,Mediterrani,low,low,45-59,False,7.5,1250.22,1163.0,18.94,1,50.0
+Alexia,Roca,87869937Y,Espanya,Tarragona,16.0,1.0,2000.0,Prefereix no contestar,1435.0,Grup A,Cap de projecte,3.0,,,,15.4,67.0,6.9,Mediterrani,low,low,18-29,True,7.0,1535.45,358.75,22.92,2,26.0
+Nicolas,Laurent Lefebvre,78775814N,França,Toulouse,26.0,2.0,1985.0,Dona,1342.0,Grup A,Analista senior,0.0,,,,11.5,74.36363636363636,7.615909090909091,,high,high,30-44,False,7.5,1442.65,1342.0,19.4,1,41.0
+Anna,Domènech Navarro,48548665G,Espanya,Tarragona,4.0,7.0,1971.0,Dona,1309.0,Grup A,Cap de projecte,0.0,False,,,17.4,67.0,6.9,Mediterrani,low,low,45-59,False,7.5,1407.18,1309.0,21.0,1,55.0
+Aina,Serra,90741671H,Espanya,Zaragoza,22.0,7.0,1998.0,Dona,979.0,Grup A,Administratiu/va,3.0,True,99638.0,6.4,16.0,68.0,7.0,Continental,low,low,18-29,True,7.0,1047.53,244.75,15.4,2,28.0
+Ida,Larsen,46698468J,Noruega,Oslo,17.0,5.0,2003.0,Home,978.0,Grup A,Responsable de vendes,1.0,True,65950.0,,6.3,90.0,9.2,Fred,high,high,18-29,True,8.0,1056.24,489.0,11.74,1,23.0
+Hugo,Petit Michel,32305534P,França,Lyon,27.0,12.0,1972.0,Dona,843.0,Grup A,Administratiu/va,0.0,,,,12.5,74.0,7.6,Continental,high,high,45-59,False,8.5,914.66,843.0,12.36,1,54.0
+Oriol,,34131353V,Espanya,Las Palmas de Gran Canaria,17.0,1.0,1966.0,Home,1005.0,Grup A,Analista senior,0.0,,,,22.3,62.0,6.8,Subtropical,low,low,60+,False,7.0,1075.35,1005.0,17.34,1,60.0
+Núria,Casals,91184381T,Espanya,Madrid,24.0,11.0,1961.0,Home,1000.0,Grup A,Analista,0.0,False,,,13.6,75.0,8.0,Continental,high,high,60+,False,8.0,1080.0,1000.0,14.4,1,65.0
+Clara,Lefebvre,40580804X,França,Marseille,17.0,5.0,1967.0,Home,904.0,Grup A,Administratiu/va,0.0,,,,15.2,72.0,7.4,Mediterrani,medium,medium,45-59,False,8.0,976.32,904.0,13.56,1,59.0
+Adrià,Fernández Costa,57657637T,Espanya,Barcelona,20.0,8.0,1993.0,Dona,860.0,Grup A,Analista,0.0,True,80000.0,25.0,16.793617021276596,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,924.5,860.0,11.85,1,33.0
+Marta,Pujol Vila,59532732X,Espanya,Tarragona,24.0,4.0,1983.0,Home,1469.0,Grup A,Analista,4.0,False,,,17.3,67.0,6.9,Mediterrani,low,low,30-44,True,8.0,1586.52,293.8,23.68,2,43.0
+Xavier,,77239032Q,Espanya,Alacant,18.0,4.0,1981.0,Dona,937.0,Grup A,Analista,1.0,True,,,17.9,68.0,7.0,Mediterrani,low,low,45-59,True,9.0,1021.33,468.5,15.02,1,45.0
+Sergio,Ruiz Romero,92124494Q,Espanya,Valladolid,3.0,2.0,2004.0,Dona,980.0,Grup A,Responsable de vendes,0.0,,,,38.0,64.0,6.7,Continental,low,low,18-29,False,5.5,1033.9,980.0,16.15,0,22.0
+Alba,,65703402A,Espanya,Sevilla,25.0,6.0,1964.0,Home,1027.0,Grup A,Analista,4.0,False,,,21.8,65.0,7.0,Mediterrani,low,low,60+,True,8.5,1114.3,205.4,17.14,2,62.0
+Katharina,Zimmermann,84181946C,Alemanya,Düsseldorf,27.0,5.0,2000.0,Dona,901.0,Grup A,Responsable de vendes,4.0,,,,10.3,77.87878787878788,8.036363636363635,,high,high,18-29,True,8.0,973.08,180.2,12.49,2,26.0
+Laura,Schmidt,88176784Z,Alemanya,München,7.0,9.0,1998.0,Dona,909.0,Grup A,Tècnic IT,0.0,False,,,8.7,82.0,8.0,Continental,high,high,18-29,False,6.5,968.08,909.0,11.81,0,28.0
+Anna,Pérez,90035643G,Espanya,Palma,5.0,11.0,1984.0,Dona,1115.0,Grup A,Administratiu/va,0.0,True,6377.0,25.0,21.3,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,1193.05,1115.0,16.34,1,42.0
+Nil,,81696670A,Espanya,Bilbao,16.0,7.0,1964.0,Home,1280.0,Grup A,Analista,2.0,True,99431.0,25.0,13.352500000000001,72.0,7.8,Oceànic,medium,high,60+,True,8.5,1388.8,426.67,19.29,1,62.0
+Hugo,Robert,91224076E,França,Paris,31.0,1.0,1979.0,Dona,3000.0,Grup A,Analista senior,0.0,False,,,14.0,85.0,9.0,Oceànic,high,high,45-59,False,8.5,3255.0,3000.0,38.29,1,47.0
+Pau,Roca Muñoz,14804924E,Espanya,Valladolid,15.0,9.0,1992.0,Dona,967.0,Grup A,Responsable de vendes,2.0,,,,12.0,64.0,6.7,Continental,low,low,30-44,True,8.0,1044.36,322.33,16.32,1,34.0
+Oriol,Ferrer,52590001R,Espanya,Zaragoza,15.0,7.0,1973.0,Dona,786.0,Grup A,Analista,0.0,True,81381.0,6.5,13.9,68.0,7.0,Continental,low,low,45-59,False,7.5,844.95,786.0,12.43,1,53.0
+Laia,,41150534W,Espanya,Alacant,21.0,10.0,1972.0,Dona,1409.0,Grup A,Analista senior,1.0,False,,,17.4,68.0,7.0,Mediterrani,low,low,45-59,True,9.0,1535.81,704.5,22.59,1,54.0
+Davide,Greco Ferrari,24208449G,Itàlia,Torino,18.0,12.0,1969.0,Home,968.0,Grup A,Analista senior,0.0,,,,9.6,74.0,7.2,Continental,high,medium,45-59,False,9.0,1055.12,968.0,14.26,1,57.0
+Sergio,Ruiz,25101251Y,Espanya,Barcelona,24.0,8.0,1991.0,Prefereix no contestar,1255.0,Grup A,Responsable de vendes,0.0,True,80000.0,6.2,14.5,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1349.12,1255.0,17.3,1,35.0
+Laia,Hernández,77573352Q,Espanya,Alacant,17.0,8.0,2001.0,Home,1021.0,Grup A,Responsable de vendes,0.0,False,,,20.1,68.0,7.0,Mediterrani,low,low,18-29,False,5.5,1077.16,1021.0,15.84,0,25.0
+Xavier,Pujol,47330001D,Espanya,Murcia,1.0,4.0,1960.0,Home,1283.0,Grup A,Analista senior,0.0,True,56365.0,8.8,20.0,60.0,6.5,Mediterrani,low,low,60+,False,7.0,1372.81,1283.0,22.88,1,66.0
+Pol,Soler Sánchez,34254080R,Espanya,Tarragona,30.0,3.0,1964.0,Home,765.0,Grup A,Analista junior,1.0,True,116654.0,0.5,13.5,67.0,6.9,Mediterrani,low,low,60+,True,8.5,830.02,382.5,12.39,1,62.0
+Marc,Muñoz,97933602T,Espanya,Girona,26.0,2.0,1982.0,Dona,1327.0,Grup A,Analista senior,0.0,True,16998.0,,18.1,66.0,6.8,Mediterrani,low,low,30-44,False,6.5,1413.26,1327.0,21.41,1,44.0
+Laia,Pujol Casals,65374574V,Espanya,Las Palmas de Gran Canaria,1.0,4.0,1960.0,Dona,1179.0,Grup A,Analista senior,0.0,,,,19.8,62.0,6.8,Subtropical,low,low,60+,False,7.0,1261.53,1179.0,20.35,1,66.0
+Guillem,Muñoz Pérez,18160765Z,Espanya,Girona,11.0,2.0,2004.0,Dona,935.0,Grup A,Analista junior,2.0,True,80000.0,0.5,8.1,66.0,6.8,Mediterrani,low,low,18-29,True,7.0,1000.45,311.67,15.16,1,22.0
+Jordi,Vidal Muñoz,69971142J,Espanya,Barcelona,12.0,11.0,1991.0,Home,1015.0,Grup A,Tècnic IT,0.0,,,,17.1,78.0,8.5,Mediterrani,high,high,30-44,False,7.5,1091.12,1015.0,13.99,1,35.0
+Noa,Vidal López,75183333K,Espanya,Màlaga,19.0,8.0,1961.0,Dona,723.0,Grup A,Responsable de vendes,2.0,,,,19.1,68.5,7.209797297297297,,medium,medium,60+,True,9.0,788.07,241.0,11.5,1,65.0
+Magnus,Nilsen Larsen,23391799B,Noruega,Tromsø,13.0,3.0,1965.0,Home,1381.0,Grup A,Analista senior,0.0,False,,,3.3,87.95454545454545,9.036363636363637,,high,high,60+,False,8.0,1491.48,1381.0,16.96,1,61.0
+Aina,Navarro,85273750X,Espanya,Barcelona,5.0,1.0,1986.0,Home,808.0,Grup A,Analista junior,4.0,,,,13.7,78.0,8.5,Mediterrani,high,high,30-44,True,9.0,880.72,161.6,11.29,2,40.0
+,Pujol Gil,92420455R,Espanya,A Coruña,8.0,9.0,2002.0,Dona,1041.0,Grup A,Tècnic IT,0.0,True,29847.0,4.5,11.3,69.0,7.1,Oceànic,medium,medium,18-29,False,6.0,1103.46,1041.0,15.99,0,24.0
+Nil,,17207367T,Espanya,Girona,8.0,6.0,1996.0,Dona,807.0,Grup A,Tècnic IT,4.0,False,,,14.9,66.0,6.8,Mediterrani,low,low,30-44,True,8.0,871.56,161.4,13.21,2,30.0
+Pau,,59997347Q,Espanya,A Coruña,3.0,2.0,2003.0,Home,1343.0,Grup A,Cap de projecte,0.0,False,,,12.882051282051282,69.0,7.1,Oceànic,medium,medium,18-29,False,6.0,1423.58,1343.0,20.63,0,23.0
+Claudia,Hernández Pujol,56401649E,Espanya,Sevilla,14.0,4.0,1979.0,Prefereix no contestar,1021.0,Grup A,Tècnic IT,2.0,False,,,19.6,65.0,7.0,Mediterrani,low,low,45-59,True,9.0,1112.89,340.33,17.12,1,47.0
+,Vila Casals,54151097E,Espanya,Barcelona,9.0,1.0,1973.0,Dona,1378.0,Grup A,Analista senior,0.0,True,80000.0,4.1,14.3,78.0,8.5,Mediterrani,high,high,45-59,False,8.5,1495.13,1378.0,19.17,1,53.0
+Gabriele,Giordano Moretti,66329894V,Itàlia,Bologna,14.0,4.0,1993.0,Dona,994.0,Grup A,Analista,0.0,,,,11.9,74.32967032967034,7.1098901098901095,,high,medium,30-44,False,8.0,1073.52,994.0,14.44,1,33.0
+Adrià,Gil,81019783K,Espanya,Las Palmas de Gran Canaria,16.0,2.0,1994.0,Prefereix no contestar,838.0,Grup A,Responsable de vendes,0.0,False,,,21.8,62.0,6.8,Subtropical,low,low,30-44,False,6.5,892.47,838.0,14.39,1,32.0
+Pau,Soler,20016439A,Espanya,Girona,6.0,10.0,1982.0,Home,1259.0,Grup A,Analista,0.0,True,65950.0,0.5,12.9,66.0,6.8,Mediterrani,low,low,30-44,False,6.5,1340.84,1259.0,20.32,1,44.0
+Thomas,Leroy,49412831B,França,Bordeaux,22.0,6.0,1993.0,Dona,803.0,Grup A,Responsable de vendes,0.0,True,20000.0,8.6,11.122222222222224,73.0,7.2,Oceànic,medium,medium,30-44,False,7.0,859.21,803.0,11.77,1,33.0
+Xavier,Serra,38356463G,Espanya,Sevilla,6.0,8.0,1961.0,Home,1191.0,Grup A,Cap de projecte,0.0,False,,,20.9,65.0,7.0,Mediterrani,low,low,60+,False,7.0,1274.37,1191.0,19.61,1,65.0
+Mia,Wolf,44364245Q,Alemanya,Hamburg,15.0,6.0,2004.0,Dona,1441.0,Grup A,Analista senior,3.0,False,,,6.4,78.0,8.1,Oceànic,high,high,18-29,True,8.0,1556.28,360.25,19.95,2,22.0
+Irene,Gómez Gómez,54735640X,Espanya,Màlaga,30.0,9.0,1960.0,Dona,1046.0,Grup A,Analista junior,0.0,True,20000.0,8.3,20.4,68.5,7.209797297297297,,medium,medium,60+,False,7.5,1124.45,1046.0,16.42,1,66.0
+Sergio,Casals Navarro,33776348M,Espanya,València,23.0,11.0,1961.0,Dona,1021.0,Grup A,Analista,3.0,True,13608.0,,21.3,70.0,7.5,Mediterrani,medium,medium,60+,True,9.0,1112.89,255.25,15.9,2,65.0
+Marc,,52883576A,Espanya,Màlaga,3.0,1.0,2002.0,Dona,1131.0,Grup A,Administratiu/va,1.0,,,,19.73181818181818,68.5,7.209797297297297,,medium,medium,18-29,True,7.5,1215.82,565.5,17.75,1,24.0
+Sara,Sánchez Muñoz,16121285Q,Espanya,Alacant,14.0,4.0,1960.0,Dona,1160.0,Grup A,Cap de projecte,2.0,False,,,18.0,68.0,7.0,Mediterrani,low,low,60+,True,8.5,1258.6,386.67,18.51,1,66.0
+Alexia,Pujol Muñoz,58499037N,Espanya,Màlaga,2.0,3.0,1979.0,Dona,1225.0,Grup A,Analista junior,0.0,False,,,38.0,68.5,7.209797297297297,,medium,medium,45-59,False,8.0,1323.0,1225.0,19.31,1,47.0
+Adrià,Domènech,82613651V,Espanya,Alacant,25.0,11.0,1958.0,Dona,838.0,Grup A,Tècnic IT,0.0,False,,,14.4,68.0,7.0,Mediterrani,low,low,60+,False,7.0,896.66,838.0,13.19,1,68.0
+Núria,Navarro,69715838A,Espanya,Bilbao,30.0,1.0,1966.0,Home,1114.0,Grup A,Analista junior,0.0,False,,,12.2,72.0,7.8,Oceànic,medium,high,60+,False,7.0,1191.98,1114.0,16.56,1,60.0
+Irene,Navarro,62881948G,Espanya,Alacant,8.0,7.0,1960.0,Dona,1120.0,Grup A,Analista junior,1.0,False,,,16.5,68.0,7.0,Mediterrani,low,low,60+,True,8.5,1215.2,560.0,17.87,1,66.0
+Guillem,,56142700T,Espanya,Sevilla,14.0,10.0,1972.0,Home,1126.0,Grup A,Cap de projecte,2.0,False,,,17.9,65.0,7.0,Mediterrani,low,low,45-59,True,9.0,1227.34,375.33,18.88,1,54.0
+Lucas,Dubois,36979534V,França,Toulouse,8.0,5.0,1982.0,Prefereix no contestar,1108.0,Grup A,Administratiu/va,0.0,True,,,38.0,74.36363636363636,7.615909090909091,,high,high,30-44,False,7.5,1191.1,1108.0,16.02,1,44.0
+Pau,López,64447809T,Espanya,Sevilla,16.0,9.0,2000.0,Home,867.0,Grup A,Administratiu/va,0.0,,,,17.3,65.0,7.0,Mediterrani,low,low,18-29,False,5.5,914.68,867.0,14.07,0,26.0
+Núria,,95325945X,Espanya,Tarragona,25.0,12.0,1975.0,Home,1105.0,Grup A,Analista senior,0.0,,,,14.8,67.0,6.9,Mediterrani,low,low,45-59,False,7.5,1187.88,1105.0,17.73,1,51.0
+Pau,Romero Hernández,59652384T,Espanya,Tarragona,10.0,6.0,1969.0,Home,1276.0,Grup A,Analista,1.0,True,113111.0,25.0,15.7,67.0,6.9,Mediterrani,low,low,45-59,True,9.0,1390.84,638.0,20.76,1,57.0
+,Sánchez,42158208B,Espanya,Palma,5.0,5.0,1987.0,Dona,747.0,Grup A,Analista junior,0.0,,,,18.2,73.0,7.2,Mediterrani,medium,medium,30-44,False,7.0,799.29,747.0,10.95,1,39.0
+Adrià,Domènech Pujol,17494253Z,Espanya,València,23.0,4.0,1977.0,Dona,850.0,Grup A,Tècnic IT,0.0,,,,20.0,70.0,7.5,Mediterrani,medium,medium,45-59,False,8.0,918.0,850.0,13.11,1,49.0
+,Vila,65153035X,Espanya,Valladolid,17.0,12.0,1959.0,Dona,1072.0,Grup A,Analista,0.0,True,32672.0,5.5,-5.0,64.0,6.7,Continental,low,low,60+,False,7.0,1147.04,1072.0,17.92,1,67.0
+Núria,Puig,79678327K,Espanya,Murcia,21.0,6.0,1981.0,Dona,1031.0,Grup A,Cap de projecte,3.0,False,,,19.111904761904764,60.0,6.5,Mediterrani,low,low,45-59,True,9.0,1123.79,257.75,18.73,2,45.0
+Joana,Casals Puig,94227868E,Espanya,A Coruña,26.0,9.0,1983.0,Home,726.0,Grup A,Analista junior,1.0,,,,11.9,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,787.71,363.0,11.42,1,43.0
+Thomas,David,27341287F,França,Bordeaux,8.0,6.0,1972.0,Dona,1572.28,Grup A,Tècnic IT,1.0,False,,,16.2,73.0,7.2,Oceànic,medium,medium,45-59,True,9.5,1721.65,786.14,23.58,1,54.0
+Elias,Pettersen Karlsen,48272885X,Noruega,Oslo,1.0,1.0,1984.0,Prefereix no contestar,1237.0,Grup A,Analista,0.0,True,80000.0,10.4,10.3,90.0,9.2,Fred,high,high,30-44,False,7.5,1329.78,1237.0,14.78,1,42.0
+Oriol,Soler Vila,85388033X,Espanya,Barcelona,21.0,2.0,1977.0,Dona,792.0,Grup A,Analista,1.0,False,,,15.4,78.0,8.5,Mediterrani,high,high,45-59,True,10.0,871.2,396.0,11.17,1,49.0
+Irene,López Hernández,43745968H,Espanya,Màlaga,11.0,6.0,1960.0,Prefereix no contestar,1259.0,Grup A,Analista junior,4.0,False,,,19.3,68.5,7.209797297297297,,medium,medium,60+,True,9.0,1372.31,251.8,20.03,2,66.0
+Pau,Vidal,70513308V,Espanya,Valladolid,11.0,10.0,1971.0,Dona,816.0,Grup A,Responsable de vendes,2.0,True,30481.0,0.5,9.8,64.0,6.7,Continental,low,low,45-59,True,9.0,889.44,272.0,13.9,1,55.0
+Alexia,,93434765S,Espanya,Valladolid,18.0,9.0,1994.0,Dona,1336.0,Grup A,Tècnic IT,0.0,,,,10.5,64.0,6.7,Continental,low,low,30-44,False,6.5,1422.84,1336.0,22.23,1,32.0
+Nil,Fernández Ramos,34385885F,Espanya,Màlaga,11.0,11.0,1995.0,Dona,823.0,Grup A,Analista junior,0.0,False,,,16.9,68.5,7.209797297297297,,medium,medium,30-44,False,7.0,880.61,823.0,12.86,1,31.0
+Antoine,Durand Bernard,67260591L,França,Paris,19.0,5.0,1982.0,Dona,966.0,Grup A,Analista,0.0,,,,10.3,85.0,9.0,Oceànic,high,high,30-44,False,7.5,1038.45,966.0,12.22,1,44.0
+Irene,Vidal,44692423P,Espanya,Madrid,27.0,4.0,1996.0,Home,1124.0,Grup A,Responsable de vendes,1.0,,,,15.7,75.0,8.0,Continental,high,high,30-44,True,9.0,1225.16,562.0,16.34,1,30.0
+Laia,Vidal Romero,39330100H,Espanya,Sevilla,24.0,8.0,2004.0,Dona,1767.07,Grup A,Cap de projecte,2.0,False,,,20.3,65.0,7.0,Mediterrani,low,low,18-29,True,7.0,1890.76,589.02,29.09,1,22.0
+Carlos,,88598588G,Espanya,Màlaga,16.0,6.0,1981.0,Dona,797.0,Grup A,Analista,0.0,True,115076.0,13.2,38.0,68.5,7.209797297297297,,medium,medium,45-59,False,8.0,860.76,797.0,12.57,1,45.0
+Carlos,Ferrer,89846877N,Espanya,Madrid,17.0,6.0,1983.0,Dona,1184.0,Grup A,Analista senior,0.0,False,,,12.9,75.0,8.0,Continental,high,high,30-44,False,7.5,1272.8,1184.0,16.97,1,43.0
+Aina,,62061217F,Espanya,Madrid,13.0,6.0,2002.0,Dona,985.0,Grup A,Analista junior,2.0,False,,,13.5,75.0,8.0,Continental,high,high,18-29,True,8.0,1063.8,328.33,14.18,1,24.0
+Nil,Navarro Hernández,50434140F,Espanya,Sevilla,1.0,2.0,1999.0,Prefereix no contestar,1070.0,Grup A,Cap de projecte,0.0,,,,13.5,65.0,7.0,Mediterrani,low,low,18-29,False,5.5,1128.85,1070.0,17.37,0,27.0
+,Gómez,55411287M,Espanya,Barcelona,13.0,7.0,1975.0,Home,1340.0,Grup A,Responsable de vendes,2.0,True,36221.0,25.0,16.793617021276596,78.0,8.5,Mediterrani,high,high,45-59,True,10.0,1474.0,446.67,18.9,1,51.0
+Jordi,Ruiz Romero,26489417K,Espanya,Sevilla,23.0,12.0,1962.0,Home,932.0,Grup A,Tècnic IT,0.0,False,,,24.8,65.0,7.0,Mediterrani,low,low,60+,False,7.0,997.24,932.0,15.34,1,64.0
+Marc,Puig Casals,77885883W,Espanya,Las Palmas de Gran Canaria,11.0,3.0,1998.0,Dona,866.0,Grup A,Analista,4.0,False,,,-10.0,62.0,6.8,Subtropical,low,low,18-29,True,7.0,926.62,173.2,14.95,2,28.0
+Anna,López,14839040C,Espanya,Alacant,23.0,5.0,1989.0,Prefereix no contestar,1072.0,Grup A,Analista senior,0.0,True,65950.0,0.5,-10.0,68.0,7.0,Mediterrani,low,low,30-44,False,6.5,1141.68,1072.0,16.79,1,37.0
+,Gómez Vila,33642126N,Espanya,Palma,13.0,2.0,1967.0,Home,922.0,Grup A,Administratiu/va,2.0,,,,20.2,73.0,7.2,Mediterrani,medium,medium,45-59,True,9.5,1009.59,307.33,13.83,1,59.0
+Carlos,Fernández,77404592Q,Espanya,Murcia,10.0,1.0,1986.0,Prefereix no contestar,1121.0,Grup A,Responsable de vendes,0.0,False,,,16.9,60.0,6.5,Mediterrani,low,low,30-44,False,6.5,1193.86,1121.0,19.9,1,40.0
+Hugo,Pérez Muñoz,48364464A,Espanya,Tarragona,19.0,3.0,1968.0,Home,1283.0,Grup A,Analista junior,1.0,,,,16.8,67.0,6.9,Mediterrani,low,low,45-59,True,9.0,1398.47,641.5,20.87,1,58.0
+Léa,Moreau,68534862G,França,Marseille,30.0,12.0,1967.0,Dona,783.0,Grup A,Analista,2.0,,,,17.7,72.0,7.4,Mediterrani,medium,medium,45-59,True,9.5,857.38,261.0,11.91,1,59.0
+Pol,Torres,25021199W,Espanya,Bilbao,28.0,12.0,1994.0,Prefereix no contestar,998.0,Grup A,Responsable de vendes,1.0,,,,16.3,72.0,7.8,Oceànic,medium,high,30-44,True,8.0,1077.84,499.0,14.97,1,32.0
+Noa,Gómez,39439338J,Espanya,Madrid,2.0,1.0,1993.0,Home,1328.0,Grup A,Tècnic IT,0.0,True,80000.0,5.1,13.2,75.0,8.0,Continental,high,high,30-44,False,7.5,1427.6,1328.0,19.03,1,33.0
+Matteo,Marino Rizzo,57684613V,Itàlia,Firenze,1.0,12.0,1993.0,Dona,1331.0,Grup A,Analista,0.0,False,,,11.7,77.0,7.1,Continental,high,medium,30-44,False,8.0,1437.48,1331.0,18.67,1,33.0
+Carmen,Vila Puig,61722751K,Espanya,Alacant,29.0,10.0,1990.0,Dona,1260.0,Grup A,Analista senior,1.0,,,,42.0,68.0,7.0,Mediterrani,low,low,30-44,True,8.0,1360.8,630.0,20.01,1,36.0
+Claudia,Vila Romero,94545592X,Espanya,Tarragona,17.0,8.0,1976.0,Dona,1320.0,Grup A,Analista senior,4.0,,,,15.2,67.0,6.9,Mediterrani,low,low,45-59,True,9.0,1438.8,264.0,21.47,2,50.0
+Marta,,62395558K,Espanya,Tarragona,24.0,6.0,2001.0,Dona,1062.0,Grup A,Tècnic IT,0.0,True,109099.0,,18.5,67.0,6.9,Mediterrani,low,low,18-29,False,5.5,1120.41,1062.0,16.72,0,25.0
+,Gómez,41663551Y,Espanya,Tarragona,11.0,1.0,1996.0,Home,919.0,Grup A,Cap de projecte,0.0,False,,,17.1,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,978.73,919.0,14.61,1,30.0
+Marta,Roca Pujol,49701147A,Espanya,Tarragona,24.0,9.0,1986.0,Dona,1043.0,Grup A,Responsable de vendes,0.0,,,,16.0,67.0,6.9,Mediterrani,low,low,30-44,False,6.5,1110.79,1043.0,16.58,1,40.0
+Adrià,Hernández,88629743T,Espanya,Tarragona,19.0,10.0,1997.0,Dona,1054.0,Grup A,Analista,1.0,True,24307.0,0.5,17.4,67.0,6.9,Mediterrani,low,low,18-29,True,7.0,1127.78,527.0,16.83,1,29.0
+,Roca Hernández,93114754K,Espanya,Bilbao,10.0,9.0,1990.0,Dona,988.0,Grup A,Responsable de vendes,0.0,,,,15.0,72.0,7.8,Oceànic,medium,high,30-44,False,6.5,1052.22,988.0,14.61,1,36.0
+Simone,Esposito,88357247Z,Itàlia,Torino,15.0,2.0,1967.0,Home,926.0,Grup A,Analista junior,0.0,True,0.0,,15.878571428571428,74.0,7.2,Continental,high,medium,45-59,False,9.0,1009.34,926.0,13.64,1,59.0
+,Puig Torres,80245541A,Espanya,Bilbao,13.0,9.0,1968.0,Dona,943.0,Grup A,Analista junior,0.0,True,110775.0,25.0,13.0,72.0,7.8,Oceànic,medium,high,45-59,False,7.5,1013.72,943.0,14.08,1,58.0
+Noa,Domènech,72368219T,Espanya,Madrid,25.0,1.0,1992.0,Dona,819.0,Grup A,Administratiu/va,1.0,,,,15.4,75.0,8.0,Continental,high,high,30-44,True,9.0,892.71,409.5,11.9,1,34.0
+Arthur,Fournier Martin,67740709W,França,Nantes,28.0,6.0,1992.0,Home,902.0,Grup A,Administratiu/va,3.0,False,,,13.5,74.36363636363636,7.615909090909091,,high,high,30-44,True,9.0,983.18,225.5,13.22,2,34.0
+,Ramos Casals,65325710W,Espanya,Bilbao,22.0,12.0,1962.0,Dona,1106.0,Grup A,Analista,0.0,,,,13.352500000000001,72.0,7.8,Oceànic,medium,high,60+,False,7.0,1183.42,1106.0,16.44,1,64.0
+Alba,Pujol Ferrer,70869451P,Espanya,Murcia,4.0,8.0,1966.0,Dona,1469.0,Grup A,Cap de projecte,0.0,False,,,14.1,60.0,6.5,Mediterrani,low,low,60+,False,7.0,1571.83,1469.0,26.2,1,60.0
+Claudia,Pujol,73068008Z,Espanya,A Coruña,18.0,4.0,1989.0,Home,938.0,Grup A,Administratiu/va,4.0,False,,,11.9,69.0,7.1,Oceànic,medium,medium,30-44,True,8.5,1017.73,187.6,14.75,2,37.0
+Chiara,Rizzo,27141790N,Itàlia,Firenze,18.0,3.0,1959.0,Dona,1185.0,Grup A,Analista,0.0,True,17246.0,0.5,13.9,77.0,7.1,Continental,high,medium,60+,False,8.5,1285.72,1185.0,16.7,1,67.0
+Alexia,Casals Ribera,86670701B,Espanya,Màlaga,3.0,3.0,2004.0,Dona,1308.0,Grup A,Analista senior,4.0,True,30000.0,25.0,19.73181818181818,68.5,7.209797297297297,,medium,medium,18-29,True,7.5,1406.1,261.6,20.53,2,22.0
+Chloé,Petit,22552604A,França,Nice,6.0,3.0,1986.0,Home,1232.0,Grup A,Analista senior,0.0,False,,,16.3,74.36363636363636,7.615909090909091,,high,high,30-44,False,7.5,1324.4,1232.0,17.81,1,40.0
+Elena,Esposito,19180850S,Itàlia,Bologna,26.0,9.0,1968.0,Dona,830.0,Grup A,Analista,0.0,False,,,16.3,74.32967032967034,7.1098901098901095,,high,medium,45-59,False,9.0,904.7,830.0,12.17,1,58.0
+Sergio,Sánchez Pérez,90890057D,Espanya,Màlaga,15.0,11.0,1963.0,Dona,990.0,Grup A,Analista,3.0,False,,,12.6,68.5,7.209797297297297,,medium,medium,60+,True,9.0,1079.1,247.5,15.75,2,63.0
+Xavier,Gil,64304950E,Espanya,Màlaga,18.0,7.0,1968.0,Home,1508.0,Grup A,Cap de projecte,1.0,,,,21.8,68.5,7.209797297297297,,medium,medium,45-59,True,9.5,1651.26,754.0,24.11,1,58.0
+Marc,,29915816T,Espanya,Girona,22.0,8.0,2004.0,Prefereix no contestar,673.0,Grup A,Administratiu/va,1.0,,,,13.3,66.0,6.8,Mediterrani,low,low,18-29,True,7.0,720.11,336.5,10.91,1,22.0
+Guillem,Torres Navarro,87466401Z,Espanya,València,18.0,11.0,1995.0,Dona,1073.0,Grup A,Analista,0.0,,,,14.7,70.0,7.5,Mediterrani,medium,medium,30-44,False,7.0,1148.11,1073.0,16.4,1,31.0
+Marc,,28515091P,Espanya,Bilbao,18.0,1.0,1964.0,Home,1202.0,Grup A,Analista,1.0,True,20000.0,7.3,13.5,72.0,7.8,Oceànic,medium,high,60+,True,8.5,1304.17,601.0,18.11,1,62.0
+Luca,Rizzo Ferrari,28245984Z,Itàlia,Torino,29.0,6.0,2002.0,Prefereix no contestar,1777.14,Grup A,Analista senior,2.0,False,,,13.6,74.0,7.2,Continental,high,medium,18-29,True,8.5,1928.2,592.38,26.06,1,24.0
+Charlotte,Koch Fischer,94764758X,Alemanya,Hamburg,6.0,11.0,1962.0,Dona,927.0,Grup A,Cap de projecte,1.0,,,,8.7,78.0,8.1,Oceànic,high,high,60+,True,9.5,1015.06,463.5,13.01,1,64.0
+Jordi,,13976162W,Espanya,Zaragoza,3.0,8.0,1967.0,Dona,1767.07,Grup A,Cap de projecte,1.0,,,,-5.0,68.0,7.0,Continental,low,low,45-59,True,9.0,1926.11,883.54,28.33,1,59.0
+Alexia,Moreno Domènech,61249115R,Espanya,Zaragoza,10.0,5.0,2004.0,Dona,1767.07,Grup A,Cap de projecte,0.0,True,9017.0,0.5,13.0,68.0,7.0,Continental,low,low,18-29,False,5.5,1864.26,1767.07,27.42,0,22.0
+Pol,,66620520W,Espanya,Sevilla,18.0,6.0,1973.0,Dona,1042.0,Grup A,Responsable de vendes,1.0,True,65950.0,0.5,21.7,65.0,7.0,Mediterrani,low,low,45-59,True,9.0,1135.78,521.0,17.47,1,53.0
+Simone,Bianchi,51167664F,Itàlia,Milano,8.0,7.0,2000.0,Home,1118.0,Grup A,Administratiu/va,0.0,,,,12.8,80.0,7.5,Continental,high,medium,18-29,False,7.0,1196.26,1118.0,14.95,0,26.0
+David,,23198915A,Espanya,Zaragoza,28.0,6.0,1959.0,Dona,1120.0,Grup A,Analista,,,,,12.5,68.0,7.0,Continental,low,low,60+,False,7.0,1198.4,,17.62,1,67.0
+Joana,,42174333S,Espanya,Madrid,1.0,7.0,1991.0,Dona,1188.0,Grup A,Analista,0.0,,,,8.6,75.0,8.0,Continental,high,high,30-44,False,7.5,1277.1,1188.0,17.03,1,35.0
+Sergio,Ruiz Gómez,32342927V,Espanya,Palma,30.0,8.0,1959.0,Home,842.0,Grup A,Responsable de vendes,0.0,False,,,18.5,73.0,7.2,Mediterrani,medium,medium,60+,False,7.5,905.15,842.0,12.4,1,67.0
+Hugo,Torres,88930579C,Espanya,Tarragona,20.0,11.0,1970.0,Dona,1166.0,Grup A,Tècnic IT,0.0,False,,,16.3,67.0,6.9,Mediterrani,low,low,45-59,False,7.5,1253.45,1166.0,18.71,1,56.0
+Riccardo,Colombo Rizzo,45376362C,Itàlia,Roma,26.0,7.0,1981.0,Home,1288.0,Grup A,Responsable de vendes,0.0,False,,,-10.0,78.0,7.6,Mediterrani,high,high,45-59,False,8.5,1397.48,1288.0,17.92,1,45.0
+Alba,,61448694R,Espanya,Madrid,6.0,11.0,1987.0,Dona,950.0,Grup A,Cap de projecte,1.0,True,80000.0,0.5,19.0,75.0,8.0,Continental,high,high,30-44,True,9.0,1035.5,475.0,13.81,1,39.0
+Anna,Soler,89365865K,Espanya,Zaragoza,13.0,9.0,1991.0,Dona,1222.0,Grup A,Analista senior,1.0,True,97162.0,,15.7,68.0,7.0,Continental,low,low,30-44,True,8.0,1319.76,611.0,19.41,1,35.0
+Carlos,Vila Domènech,18004248E,Espanya,Palma,6.0,4.0,2004.0,Dona,902.0,Grup A,Analista,0.0,,,,17.26734693877551,73.0,7.2,Mediterrani,medium,medium,18-29,False,6.0,956.12,902.0,13.1,0,22.0
+David,Moreno Costa,72010916E,Espanya,Murcia,5.0,4.0,1996.0,Prefereix no contestar,1032.0,Grup A,Analista,0.0,False,,,22.0,60.0,6.5,Mediterrani,low,low,30-44,False,6.5,1099.08,1032.0,18.32,1,30.0
+David,Roca Pérez,31701972H,Espanya,Girona,3.0,5.0,1975.0,Home,1002.0,Grup A,Analista,1.0,True,50453.0,11.8,9.5,66.0,6.8,Mediterrani,low,low,45-59,True,9.0,1092.18,501.0,16.55,1,51.0
+Marta,Hernández Puig,45997422C,Espanya,A Coruña,25.0,10.0,1969.0,Dona,1183.0,Grup A,Analista junior,0.0,True,27921.0,,11.7,69.0,7.1,Oceànic,medium,medium,45-59,False,8.0,1277.64,1183.0,18.52,1,57.0
+Xavier,,95100395N,Espanya,Girona,16.0,7.0,1960.0,Dona,1437.0,Grup A,Analista senior,0.0,False,,,13.0,66.0,6.8,Mediterrani,low,low,60+,False,7.0,1537.59,1437.0,23.3,1,66.0
+Adrià,Hernández Ramos,80771894Q,Espanya,Bilbao,24.0,6.0,1990.0,Prefereix no contestar,3000.0,Grup A,Analista senior,0.0,True,80000.0,25.0,18.2,72.0,7.8,Oceànic,medium,high,30-44,False,6.5,3195.0,3000.0,44.38,1,36.0
+Jordi,Hernández,67755039Y,Espanya,Zaragoza,12.0,10.0,1961.0,Dona,1074.0,Grup A,Analista,1.0,True,80000.0,12.0,12.0,68.0,7.0,Continental,low,low,60+,True,8.5,1165.29,537.0,17.14,1,65.0
