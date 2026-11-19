@@ -1,0 +1,201 @@
+id_pais,pais,tipo_socio,ue,region
+001,Francia,país,UE,UE
+003,Países Bajos,país,UE,UE
+004,Alemania,país,UE,UE
+005,Italia,país,UE,UE
+006,Reino Unido,país,terceros países,resto
+007,Irlanda,país,UE,UE
+008,Dinamarca,país,UE,UE
+009,Grecia,país,UE,UE
+010,Portugal,país,UE,UE
+017,Bélgica,país,UE,UE
+018,Luxemburgo,país,UE,UE
+024,Islandia,país,terceros países,resto
+028,Noruega,país,terceros países,resto
+030,Suecia,país,UE,UE
+032,Finlandia,país,UE,UE
+037,Liechtenstein,país,terceros países,resto
+038,Austria,país,UE,UE
+039,Suiza,país,terceros países,resto
+041,Islas Feroe,país,terceros países,resto
+043,Andorra,país,terceros países,resto
+044,Gibraltar,país,terceros países,resto
+045,Ciudad del Vaticano,país,terceros países,resto
+046,Malta,país,UE,UE
+047,San Marino,país,terceros países,resto
+052,Turquía,país,terceros países,resto
+053,Estonia,país,UE,UE
+054,Letonia,país,UE,UE
+055,Lituania,país,UE,UE
+060,Polonia,país,UE,UE
+061,República Checa,país,UE,UE
+063,Eslovaquia,país,UE,UE
+064,Hungría,país,UE,UE
+066,Rumanía,país,UE,UE
+068,Bulgaria,país,UE,UE
+070,Albania,país,terceros países,resto
+072,Ucrania,país,terceros países,resto
+073,Bielorusia,país,terceros países,resto
+074,Moldavia,país,terceros países,resto
+075,Rusia,país,terceros países,resto
+076,Georgia,país,terceros países,resto
+077,Armenia,país,terceros países,resto
+079,Kazajstán,país,terceros países,resto
+080,Turkmenistán,país,terceros países,resto
+081,Uzbekistán,país,terceros países,resto
+082,Tajikistán,país,terceros países,resto
+091,Eslovenia,país,UE,UE
+092,Croacia,país,UE,UE
+093,Bosnia-Herzegovina,país,terceros países,resto
+095,Kosovo,país,terceros países,resto
+096,Macedonia del Norte,país,terceros países,resto
+097,Montenegro,país,terceros países,resto
+098,Serbia,país,terceros países,resto
+204,Marruecos,país,terceros países,resto
+208,Argelia,país,terceros países,resto
+212,Túnez,país,terceros países,resto
+220,Egipto,país,terceros países,resto
+224,Sudán,país,terceros países,resto
+225,Sudán del,país,terceros países,resto
+228,Mauritania,país,terceros países,resto
+232,Mali,país,terceros países,resto
+236,Burkina Faso,país,terceros países,resto
+240,Níger,país,terceros países,resto
+247,Cabo Verde,país,terceros países,resto
+248,Senegal,país,terceros países,resto
+252,Gambia,país,terceros países,resto
+257,Guinea Bissau,país,terceros países,resto
+260,Guinea,país,terceros países,resto
+264,Sierra Leona,país,terceros países,resto
+268,Liberia,país,terceros países,resto
+272,Costa de,país,terceros países,resto
+276,Ghana,país,terceros países,resto
+288,Nigeria,país,terceros países,resto
+302,Camerún,país,terceros países,resto
+306,República Centroafricana,país,terceros países,resto
+310,Guinea Ecuatorial,país,terceros países,resto
+311,Santo Tomé,país,terceros países,resto
+314,Gabón,país,terceros países,resto
+322,R.D. del,país,terceros países,resto
+324,Ruanda,país,terceros países,resto
+328,Burundi,país,terceros países,resto
+329,Santa Elena,país,terceros países,resto
+330,Angola,país,terceros países,resto
+334,Etiopía,país,terceros países,resto
+336,Eritrea,país,terceros países,resto
+338,Djibouti,país,terceros países,resto
+342,Somalia,país,terceros países,resto
+346,Kenia,país,terceros países,resto
+350,Uganda,país,terceros países,resto
+352,Tanzania,país,terceros países,resto
+355,Seychelles,país,terceros países,resto
+370,Madagascar,país,terceros países,resto
+373,Mauricio,país,terceros países,resto
+378,Zambia,país,terceros países,resto
+386,Malawi,país,terceros países,resto
+388,Sudáfrica,país,terceros países,resto
+389,Namibia,país,terceros países,resto
+393,Swazilandia,país,terceros países,resto
+395,Lesotho,país,terceros países,resto
+400,Estados Unidos,país,terceros países,resto
+404,Canadá,país,terceros países,resto
+412,México,país,terceros países,resto
+413,Bermudas,país,terceros países,resto
+416,Guatemala,país,terceros países,resto
+421,Belice,país,terceros países,resto
+424,Honduras,país,terceros países,resto
+428,El Salvador,país,terceros países,resto
+432,Nicaragua,país,terceros países,resto
+436,Costa Rica,país,terceros países,resto
+442,Panamá,país,terceros países,resto
+446,Anguilla,país,terceros países,resto
+448,Cuba,país,terceros países,resto
+449,San Cristóbal,país,terceros países,resto
+453,Bahamas,país,terceros países,resto
+456,República Dominicana,país,terceros países,resto
+457,Islas Virgenes,país,terceros países,resto
+459,Antigua y,país,terceros países,resto
+460,Dominica,país,terceros países,resto
+463,Islas Caimán,país,terceros países,resto
+464,Jamaica,país,terceros países,resto
+466,Sant Bartolomé,país,terceros países,resto
+467,San Vicente,país,terceros países,resto
+468,Islas Virgenes,país,terceros países,resto
+469,Barbados,país,terceros países,resto
+472,Trinidad y,país,terceros países,resto
+473,Granada,país,terceros países,resto
+475,Curaçao,país,terceros países,resto
+479,San Martín,país,terceros países,resto
+480,Colombia,país,terceros países,resto
+484,Venezuela,país,terceros países,resto
+488,Guyana,país,terceros países,resto
+492,Surinam,país,terceros países,resto
+500,Ecuador,país,terceros países,resto
+504,Perú,país,terceros países,resto
+508,Brasil,país,terceros países,resto
+512,Chile,país,terceros países,resto
+516,Bolivia,país,terceros países,resto
+520,Paraguay,país,terceros países,resto
+524,Uruguay,país,terceros países,resto
+528,Argentina,país,terceros países,resto
+600,Chipre,país,UE,UE
+604,Líbano,país,terceros países,Asia
+608,Siria,país,terceros países,Asia
+612,Irak,país,terceros países,Asia
+616,Irán,país,terceros países,Asia
+624,Israel,país,terceros países,Asia
+625,Cisjordania/Franja de,país,terceros países,Asia
+626,Timor-Leste,país,terceros países,Asia
+628,Jordania,país,terceros países,Asia
+632,Arabia Saudí,país,terceros países,Asia
+636,Kuwait,país,terceros países,Asia
+640,Bahrein,país,terceros países,Asia
+644,Qatar,país,terceros países,Asia
+647,Emiratos Árabes,país,terceros países,Asia
+649,Omán,país,terceros países,Asia
+653,Yemen,país,terceros países,Asia
+660,Afganistán,país,terceros países,Asia
+662,Pakistán,país,terceros países,Asia
+664,India,país,terceros países,Asia
+666,Bangladesh,país,terceros países,Asia
+667,Islas Maldivas,país,terceros países,Asia
+669,Sri Lanka,país,terceros países,Asia
+672,Nepal,país,terceros países,Asia
+675,Bután,país,terceros países,Asia
+676,Myanmar,país,terceros países,Asia
+680,Tailandia,país,terceros países,Asia
+684,Laos,país,terceros países,Asia
+690,Vietnam,país,terceros países,Asia
+696,Camboya (Campuchea),país,terceros países,Asia
+700,Indonesia,país,terceros países,Asia
+701,Malasia,país,terceros países,Asia
+703,Brunei Darussalam,país,terceros países,Asia
+706,Singapur,país,terceros países,Asia
+708,Filipinas,país,terceros países,Asia
+720,China,país,terceros países,Asia
+724,Corea del Norte,país,terceros países,Asia
+728,Corea del Sur,país,terceros países,Asia
+732,Japón,país,terceros países,Asia
+736,Taiwán,país,terceros países,Asia
+740,Hong-Kong,país,terceros países,Asia
+743,Macao,país,terceros países,Asia
+800,Australia,país,terceros países,resto
+803,Nauru,país,terceros países,resto
+804,Nueva Zelanda,país,terceros países,resto
+809,Nueva Caledonia,país,terceros países,resto
+820,Islas Marianas,país,terceros países,resto
+822,Polinesia Francesa,país,terceros países,resto
+824,Islas Marshall,país,terceros países,resto
+825,Palau,país,terceros países,resto
+830,Samoa Americana,país,terceros países,resto
+831,Guam,país,terceros países,resto
+832,Islas Menores,país,terceros países,resto
+833,Islas Cocos,país,terceros países,resto
+834,Isla Navidad,país,terceros países,resto
+835,Isla Heard,país,terceros países,resto
+837,Islas Cook,país,terceros países,resto
+893,Georgia del,país,terceros países,resto
+952,Avituallamiento terceros países,no especificado,terceros países,no especificado
+958,Países y territorios no determinados (958),no especificado,terceros países,no especificado
+959,Países y territorios no determinados (959),no especificado,terceros países,no especificado
+960,Países y territorios no determinados (960),no especificado,terceros países,no especificado

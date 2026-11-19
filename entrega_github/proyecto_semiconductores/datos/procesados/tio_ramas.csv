@@ -1,0 +1,66 @@
+rama_nombre,rama_codigo,nace
+"Productos de la agricultura, la ganadería y la caza, y servicios relacionados con los mismos",1,01
+"Productos de la silvicultura y la explotación forestal, y servicios relacionados con los mismos",2,02
+Pescado y otros productos de la pesca; productos de la acuicultura; servicios de apoyo a la pesca,3,03
+Industrias extractivas,4,05–09
+Productos alimenticios; bebidas; tabaco manufacturado,5,10-12
+Productos textiles; prendas de vestir; artículos de cuero y calzado,6,13-15
+"Madera y corcho y productos de madera y corcho, excepto muebles; artículos de cestería y espartería",7,16
+Papel y productos del papel,8,17
+Servicios de impresión y de reproducción de soportes grabados,9,18
+Coque y productos de refino de petróleo,10,19
+Productos químicos,11,20
+Productos farmacéuticos de base y sus preparados,12,21
+Productos de caucho y plásticos,13,22
+Otros productos minerales no metálicos,14,23
+Productos de metalurgia y productos metálicos,15,24
+"Productos metálicos, excepto maquinaria y equipo",16,25
+"Productos informáticos, electrónicos y ópticos",17,26
+Equipo eléctrico,18,27
+Maquinaria y equipo n.c.o.p.,19,28
+"Vehículos de motor, remolques y semirremolques",20,29
+Otro material de transporte,21,30
+Muebles; otros productos manufacturados,22,31-32
+Servicios de reparación e instalación de maquinaria y equipos,23,33
+"Energía eléctrica, gas, vapor y aire acondicionado",24,35
+Agua natural; servicios de tratamiento y distribución de agua,25,36
+"Servicios de alcantarillado; servicios de recogida, tratamiento y eliminación de residuos; servicios de aprovechamiento; servicios de saneamiento y otros servicios de gestión de residuos",26,37-39
+Construcciones y trabajos de construcción,27,41-43
+Servicios de comercio al por mayor y al por menor y servicios de reparación de vehículos de motor y motocicletas,28,45
+"Servicios de comercio al por mayor e intermediación del comercio, excepto de vehículos de motor, motocicletas y ciclomotores",29,46
+"Servicios de comercio al por menor, excepto de vehículos de motor y motocicletas",30,47
+"Servicios de transporte terrestre, incluso por tubería",31,49
+Servicios de transporte marítimo y por vías navegables interiores,32,50
+Servicios de transporte aéreo,33,51
+Servicios de almacenamiento y auxiliares del transporte,34,52
+Servicios de correos y mensajería,35,53
+Servicios de alojamiento y de comidas y bebidas,36,55-56
+Servicios de edición,37,58
+"Servicios cinematográficos, de vídeo y televisión; grabación de sonido y edición musical; servicios de programación y emisión de radio y televisión",38,59-60
+Servicios de telecomunicaciones,39,61
+"Servicios de programación, consultoría y otros servicios relacionados con la informática; servicios de información",40,62-63
+"Servicios financieros, excepto seguros y fondos de pensiones",41,64
+"Servicios de seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria",42,65
+Servicios auxiliares a los servicios financieros y a los servicios de seguros,43,66
+Servicios inmobiliarios,44,68
+Alquileres imputados de las viviendas ocupadas por sus propietarios,44a,
+Servicios jurídicos y contables; servicios de sedes centrales de empresas; servicios de consultoría de gestión empresarial,45,69-70
+Servicios técnicos de arquitectura e ingeniería; servicios de ensayos y análisis técnicos,46,71
+Servicios de investigación y desarrollo científico,47,72
+Servicios de publicidad y de estudio de mercado,48,73
+"Otros servicios profesionales, científicos y técnicos; servicios veterinarios",49,74-75
+Servicios de alquiler,50,77
+Servicios relacionados con el empleo,51,78
+"Servicios de agencias de viajes, operadores turísticos y otros servicios de reservas, y servicios relacionados con los mismos",52,79
+"Servicios de seguridad e investigación; servicios para edificios y paisajísticos; servicios administrativos, de oficina y otros servicios de ayuda a las empresas",53,80-82
+Servicios de administración pública y defensa; servicios de seguridad social obligatoria,54,84
+Servicios de educación,55,85
+Servicios de atención sanitaria,56,86
+Servicios sociales de atención en establecimientos residenciales; servicios sociales sin alojamiento,57,87-88
+"Servicios de creación, artísticos y de espectáculos; servicios de bibliotecas, archivos, museos y otros servicios culturales; servicios de juegos de azar y apuestas",58,90-92
+"Servicios deportivos, recreativos y de entretenimiento",59,93
+Servicios prestados por asociaciones,60,94
+"Servicios de reparación de ordenadores, efectos personales y artículos de uso doméstico",61,95
+Otros servicios personales,62,96
+Servicios de los hogares como empleadores de personal doméstico; bienes y servicios no diferenciados producidos por hogares para uso propio,63,97-98
+Servicios de organizaciones y organismos extraterritoriales,64,99

@@ -1,0 +1,20 @@
+codigo,descripcion
+854110,"Diodes (excl. photosensitive or light emitting diodes ""LED"")"
+854121,Transistors with a dissipation rate < 1 W (excl. photosensitive transistors)
+854129,Transistors with a dissipation rate >= 1 W (excl. photosensitive transistors)
+854130,"Thyristors, diacs and triacs (excl. photosensitive semiconductor devices)"
+854140,"Photosensitive semiconductor devices, incl. photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (excl. photovoltaic generators)"
+854141,"Light emitting diodes ""LED"""
+854142,Photovoltaic cells not assembled in modules or made up into panels
+854143,Photovoltaic cells assembled in modules or made up into panels
+854149,Photosensitive semiconductor devices (excl. photovoltaic generators and cells)
+854150,"Semiconductor devices, n.e.s."
+854151,Semiconductor-based transducers (excl. photosensitive)
+854159,"Semiconductor devices, n.e.s."
+854160,Mounted piezoelectric crystals
+854190,"Parts of diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, light emitting diodes and mounted piezoelectric crystals, n.e.s."
+854231,"Electronic integrated circuits as processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits"
+854232,Electronic integrated circuits as memories
+854233,Electronic integrated circuits as amplifiers
+854239,"Electronic integrated circuits (excl. such as processors, controllers, memories and amplifiers)"
+854290,"Parts of electronic integrated circuits, n.e.s."

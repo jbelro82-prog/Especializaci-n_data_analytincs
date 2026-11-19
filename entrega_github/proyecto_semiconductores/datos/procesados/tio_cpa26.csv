@@ -1,0 +1,66 @@
+rama_nombre,rama_codigo,nace,importado_m_eur,total_m_eur,porcentaje_importado
+"Productos de la agricultura, la ganadería y la caza, y servicios relacionados con los mismos",1,01,1.4,7.4,18.918918918918916
+"Productos de la silvicultura y la explotación forestal, y servicios relacionados con los mismos",2,02,0.0,0.6,0.0
+Pescado y otros productos de la pesca; productos de la acuicultura; servicios de apoyo a la pesca,3,03,3.7,5.7,64.91228070175438
+Industrias extractivas,4,05–09,27.0,31.4,85.98726114649682
+Productos alimenticios; bebidas; tabaco manufacturado,5,10-12,0.0,6.2,0.0
+Productos textiles; prendas de vestir; artículos de cuero y calzado,6,13-15,0.0,1.4,0.0
+"Madera y corcho y productos de madera y corcho, excepto muebles; artículos de cestería y espartería",7,16,0.0,0.0,
+Papel y productos del papel,8,17,0.0,1.2,0.0
+Servicios de impresión y de reproducción de soportes grabados,9,18,1.5,1.8,83.33333333333333
+Coque y productos de refino de petróleo,10,19,0.0,0.0,
+Productos químicos,11,20,29.9,32.6,91.71779141104294
+Productos farmacéuticos de base y sus preparados,12,21,0.0,1.8,0.0
+Productos de caucho y plásticos,13,22,0.1,11.5,0.8695652173913043
+Otros productos minerales no metálicos,14,23,57.0,64.0,89.0625
+Productos de metalurgia y productos metálicos,15,24,36.6,42.5,86.11764705882354
+"Productos metálicos, excepto maquinaria y equipo",16,25,88.0,98.7,89.15906788247213
+"Productos informáticos, electrónicos y ópticos",17,26,847.6,880.2,96.29629629629629
+Equipo eléctrico,18,27,470.0,481.6,97.59136212624584
+Maquinaria y equipo n.c.o.p.,19,28,281.9,310.1,90.90615930345048
+"Vehículos de motor, remolques y semirremolques",20,29,427.5,1189.6,35.9364492266308
+Otro material de transporte,21,30,84.6,87.1,97.12973593570608
+Muebles; otros productos manufacturados,22,31-32,87.6,88.8,98.64864864864865
+Servicios de reparación e instalación de maquinaria y equipos,23,33,547.6,577.4,94.83893314859716
+"Energía eléctrica, gas, vapor y aire acondicionado",24,35,12.7,14.0,90.71428571428571
+Agua natural; servicios de tratamiento y distribución de agua,25,36,111.3,124.7,89.25421010425019
+"Servicios de alcantarillado; servicios de recogida, tratamiento y eliminación de residuos; servicios de aprovechamiento; servicios de saneamiento y otros servicios de gestión de residuos",26,37-39,0.0,1.3,0.0
+Construcciones y trabajos de construcción,27,41-43,635.7,774.5,82.07876049063913
+Servicios de comercio al por mayor y al por menor y servicios de reparación de vehículos de motor y motocicletas,28,45,52.4,53.2,98.49624060150374
+"Servicios de comercio al por mayor e intermediación del comercio, excepto de vehículos de motor, motocicletas y ciclomotores",29,46,242.5,263.6,91.99544764795144
+"Servicios de comercio al por menor, excepto de vehículos de motor y motocicletas",30,47,0.5,85.6,0.5841121495327104
+"Servicios de transporte terrestre, incluso por tubería",31,49,153.1,175.3,87.33599543639474
+Servicios de transporte marítimo y por vías navegables interiores,32,50,11.6,13.5,85.92592592592592
+Servicios de transporte aéreo,33,51,37.9,39.4,96.19289340101524
+Servicios de almacenamiento y auxiliares del transporte,34,52,127.3,144.1,88.34142956280361
+Servicios de correos y mensajería,35,53,13.9,16.1,86.33540372670807
+Servicios de alojamiento y de comidas y bebidas,36,55-56,59.1,68.2,86.65689149560117
+Servicios de edición,37,58,95.5,112.2,85.11586452762923
+"Servicios cinematográficos, de vídeo y televisión; grabación de sonido y edición musical; servicios de programación y emisión de radio y televisión",38,59-60,103.7,131.9,78.62016679302502
+Servicios de telecomunicaciones,39,61,1764.8,2394.2,73.7114693843455
+"Servicios de programación, consultoría y otros servicios relacionados con la informática; servicios de información",40,62-63,1537.0,1919.7,80.06459342605615
+"Servicios financieros, excepto seguros y fondos de pensiones",41,64,15.1,28.4,53.16901408450705
+"Servicios de seguros, reaseguros y planes de pensiones, excepto seguridad social obligatoria",42,65,0.7,1.1,63.636363636363626
+Servicios auxiliares a los servicios financieros y a los servicios de seguros,43,66,8.7,16.6,52.40963855421686
+Servicios inmobiliarios,44,68,79.1,92.6,85.42116630669547
+Alquileres imputados de las viviendas ocupadas por sus propietarios,44a,,0.0,0.0,
+Servicios jurídicos y contables; servicios de sedes centrales de empresas; servicios de consultoría de gestión empresarial,45,69-70,225.6,236.2,95.51227773073666
+Servicios técnicos de arquitectura e ingeniería; servicios de ensayos y análisis técnicos,46,71,1079.9,1303.1,82.87161384391068
+Servicios de investigación y desarrollo científico,47,72,205.7,247.5,83.1111111111111
+Servicios de publicidad y de estudio de mercado,48,73,489.6,1007.9,48.57624764361544
+"Otros servicios profesionales, científicos y técnicos; servicios veterinarios",49,74-75,68.5,82.0,83.53658536585365
+Servicios de alquiler,50,77,3.3,3.4,97.05882352941177
+Servicios relacionados con el empleo,51,78,2.8,4.3,65.11627906976743
+"Servicios de agencias de viajes, operadores turísticos y otros servicios de reservas, y servicios relacionados con los mismos",52,79,0.0,1.2,0.0
+"Servicios de seguridad e investigación; servicios para edificios y paisajísticos; servicios administrativos, de oficina y otros servicios de ayuda a las empresas",53,80-82,474.2,543.8,87.20117690327326
+Servicios de administración pública y defensa; servicios de seguridad social obligatoria,54,84,38.5,68.0,56.61764705882353
+Servicios de educación,55,85,89.3,97.3,91.77800616649537
+Servicios de atención sanitaria,56,86,460.0,531.4,86.56379375235228
+Servicios sociales de atención en establecimientos residenciales; servicios sociales sin alojamiento,57,87-88,180.0,208.4,86.37236084452975
+"Servicios de creación, artísticos y de espectáculos; servicios de bibliotecas, archivos, museos y otros servicios culturales; servicios de juegos de azar y apuestas",58,90-92,356.8,411.1,86.79153490634882
+"Servicios deportivos, recreativos y de entretenimiento",59,93,905.1,984.4,91.9443315725315
+Servicios prestados por asociaciones,60,94,68.6,80.0,85.75
+"Servicios de reparación de ordenadores, efectos personales y artículos de uso doméstico",61,95,444.4,511.3,86.91570506551926
+Otros servicios personales,62,96,0.4,0.9,44.44444444444445
+Servicios de los hogares como empleadores de personal doméstico; bienes y servicios no diferenciados producidos por hogares para uso propio,63,97-98,0.0,0.0,
+Servicios de organizaciones y organismos extraterritoriales,64,99,0.0,0.0,

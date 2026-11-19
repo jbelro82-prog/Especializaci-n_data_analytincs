@@ -1,0 +1,20 @@
+codigo,descripcion,partida,familia,bloque
+854110,"Diodes (excl. photosensitive or light emitting diodes ""LED"")",8541,854110,chips
+854121,Transistors with a dissipation rate < 1 W (excl. photosensitive transistors),8541,854121,chips
+854129,Transistors with a dissipation rate >= 1 W (excl. photosensitive transistors),8541,854129,chips
+854130,"Thyristors, diacs and triacs (excl. photosensitive semiconductor devices)",8541,854130,chips
+854140,"Photosensitive semiconductor devices, incl. photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (excl. photovoltaic generators)",8541,854140,optoelectronica_fv
+854141,"Light emitting diodes ""LED""",8541,854140,optoelectronica_fv
+854142,Photovoltaic cells not assembled in modules or made up into panels,8541,854140,optoelectronica_fv
+854143,Photovoltaic cells assembled in modules or made up into panels,8541,854140,optoelectronica_fv
+854149,Photosensitive semiconductor devices (excl. photovoltaic generators and cells),8541,854140,optoelectronica_fv
+854150,"Semiconductor devices, n.e.s.",8541,854150,chips
+854151,Semiconductor-based transducers (excl. photosensitive),8541,854150,chips
+854159,"Semiconductor devices, n.e.s.",8541,854150,chips
+854160,Mounted piezoelectric crystals,8541,854160,chips
+854190,"Parts of diodes, transistors and similar semiconductor devices; photosensitive semiconductor devices, light emitting diodes and mounted piezoelectric crystals, n.e.s.",8541,854190,chips
+854231,"Electronic integrated circuits as processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits",8542,854231,chips
+854232,Electronic integrated circuits as memories,8542,854232,chips
+854233,Electronic integrated circuits as amplifiers,8542,854233,chips
+854239,"Electronic integrated circuits (excl. such as processors, controllers, memories and amplifiers)",8542,854239,chips
+854290,"Parts of electronic integrated circuits, n.e.s.",8542,854290,chips

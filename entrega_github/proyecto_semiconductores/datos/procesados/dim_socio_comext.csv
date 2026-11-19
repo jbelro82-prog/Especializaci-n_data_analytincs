@@ -1,0 +1,245 @@
+partner,tipo_socio,nombre,ue
+AD,país,Andorra,terceros países
+AE,país,United Arab Emirates,terceros países
+AF,país,Afghanistan,terceros países
+AG,país,Antigua and Barbuda,terceros países
+AI,país,Anguilla,terceros países
+AL,país,Albania,terceros países
+AM,país,Armenia,terceros países
+AO,país,Angola,terceros países
+AQ,país,Antarctica,terceros países
+AR,país,Argentina,terceros países
+AS,país,American Samoa,terceros países
+AT,país,Austria,UE
+AU,país,Australia,terceros países
+AW,país,Aruba,terceros países
+AZ,país,Azerbaijan,terceros países
+BA,país,Bosnia and Herzegovina,terceros países
+BB,país,Barbados,terceros países
+BD,país,Bangladesh,terceros países
+BE,país,Belgium (incl. Luxembourg 'LU' -> 1998),UE
+BF,país,Burkina Faso,terceros países
+BG,país,Bulgaria,UE
+BH,país,Bahrain,terceros países
+BI,país,Burundi,terceros países
+BJ,país,Benin,terceros países
+BL,país,Saint Barthélemy,terceros países
+BM,país,Bermuda,terceros países
+BN,país,Brunei Darussalam,terceros países
+BO,país,"Bolivia, Plurinational State of",terceros países
+BQ,país,"Bonaire, Sint Eustatius and Saba",terceros países
+BR,país,Brazil,terceros países
+BS,país,Bahamas,terceros países
+BT,país,Bhutan,terceros países
+BV,país,Bouvet Island,terceros países
+BW,país,Botswana,terceros países
+BY,país,Belarus (Belorussia),terceros países
+BZ,país,Belize,terceros países
+CA,país,Canada,terceros países
+CC,país,Cocos Islands (or Keeling Islands),terceros países
+CD,país,"Congo, Democratic Republic of",terceros países
+CF,país,Central African Republic,terceros países
+CG,país,Congo,terceros países
+CH,país,Switzerland (incl. Liechtenstein 'LI' -> 1994),terceros países
+CI,país,Côte d’Ivoire (Ivory Coast),terceros países
+CK,país,Cook Islands,terceros países
+CL,país,Chile,terceros países
+CM,país,Cameroon,terceros países
+CN,país,China,terceros países
+CO,país,Colombia,terceros países
+CR,país,Costa Rica,terceros países
+CU,país,Cuba,terceros países
+CV,país,Cabo Verde,terceros países
+CW,país,Curaçao,terceros países
+CX,país,Christmas Island,terceros países
+CY,país,Cyprus,UE
+CZ,país,Czechia,UE
+DE,país,Germany (incl. German Democratic Republic 'DD' from 1991),UE
+DJ,país,Djibouti,terceros países
+DK,país,Denmark,UE
+DM,país,Dominica,terceros países
+DO,país,Dominican Republic,terceros países
+DZ,país,Algeria,terceros países
+EC,país,Ecuador,terceros países
+EE,país,Estonia,UE
+EG,país,Egypt,terceros países
+EH,país,"Western Sahara(2013-2500);Ceuta and Melilla, Spanish Sahara(1976-1976)",terceros países
+ER,país,Eritrea,terceros países
+ES,país,Spain (incl. Canary Islands 'XB' from 1997),UE
+ET,país,Ethiopia (incl. Eritrea 'ER' -> 1993),terceros países
+FI,país,Finland,UE
+FJ,país,Fiji,terceros países
+FK,país,Falkland Islands (Malvinas),terceros países
+FM,país,"Micronesia, Federated States of",terceros países
+FO,país,Faroe Islands,terceros países
+FR,país,"France (incl. Saint Barthélemy 'BL' -> 2012; incl. French Guiana 'GF', Guadeloupe 'GP', Martinique 'MQ', Réunion 'RE' from 1997; incl. Mayotte 'YT' from 2014)",UE
+GA,país,Gabon,terceros países
+GB,país,United Kingdom,terceros países
+GD,país,Grenada,terceros países
+GE,país,Georgia,terceros países
+GH,país,Ghana,terceros países
+GI,país,Gibraltar,terceros países
+GL,país,Greenland,terceros países
+GM,país,Gambia,terceros países
+GN,país,Guinea,terceros países
+GQ,país,Equatorial Guinea,terceros países
+GR,país,Greece,UE
+GS,país,South Georgia and South Sandwich Islands,terceros países
+GT,país,Guatemala,terceros países
+GU,país,Guam,terceros países
+GW,país,Guinea-Bissau,terceros países
+GY,país,Guyana,terceros países
+HK,país,Hong Kong,terceros países
+HM,país,Heard Island and McDonald Islands,terceros países
+HN,país,Honduras,terceros países
+HR,país,Croatia,UE
+HT,país,Haiti,terceros países
+HU,país,Hungary,UE
+ID,país,Indonesia (incl. East Timor 'TP' from 1977 -> 2000),terceros países
+IE,país,Ireland (Eire),UE
+IL,país,Israel (incl. West Bank and Gaza Strip 'XP' -> 1994),terceros países
+IN,país,India,terceros países
+IO,país,British Indian Ocean Territory,terceros países
+IQ,país,Iraq,terceros países
+IR,país,"Iran, Islamic Republic of",terceros países
+IS,país,Iceland,terceros países
+IT,país,Italy (incl. San Marino 'SM' -> 1993),UE
+JM,país,Jamaica,terceros países
+JO,país,Jordan,terceros países
+JP,país,Japan,terceros países
+KE,país,Kenya,terceros países
+KG,país,Kyrgyzstan,terceros países
+KH,país,Cambodia,terceros países
+KI,país,"Kiribati (incl. Solomon Islands 'SB', Tuvalu 'TV' -> 1979; incl. Pitcairn 'PN' -> 1980)",terceros países
+KM,país,Comoros (incl. Mayotte 'YT' -> 1976),terceros países
+KN,país,St Kitts and Nevis,terceros países
+KP,país,"Korea, Democratic People’s Republic of (North Korea)",terceros países
+KR,país,"Korea, Republic of (South Korea)",terceros países
+KW,país,Kuwait,terceros países
+KY,país,Cayman Islands,terceros países
+KZ,país,Kazakhstan,terceros países
+LA,país,Lao People’s Democratic Republic (Laos),terceros países
+LB,país,Lebanon,terceros países
+LC,país,St Lucia,terceros países
+LI,país,Liechtenstein,terceros países
+LK,país,Sri Lanka,terceros países
+LR,país,Liberia,terceros países
+LS,país,Lesotho,terceros países
+LT,país,Lithuania,UE
+LU,país,Luxembourg,UE
+LV,país,Latvia,UE
+LY,país,Libya,terceros países
+MA,país,Morocco,terceros países
+MD,país,"Moldova, Republic of",terceros países
+ME,país,Montenegro,terceros países
+MG,país,Madagascar,terceros países
+MH,país,Marshall Islands,terceros países
+MK,país,North Macedonia,terceros países
+ML,país,Mali,terceros países
+MM,país,Myanmar (Burma),terceros países
+MN,país,Mongolia,terceros países
+MO,país,Macao,terceros países
+MP,país,Northern Mariana Islands,terceros países
+MR,país,Mauritania (incl. Spanish Sahara from 1977),terceros países
+MS,país,Montserrat,terceros países
+MT,país,Malta,UE
+MU,país,Mauritius,terceros países
+MV,país,Maldives,terceros países
+MW,país,Malawi,terceros países
+MX,país,Mexico,terceros países
+MY,país,Malaysia,terceros países
+MZ,país,Mozambique,terceros países
+NA,país,Namibia,terceros países
+NC,país,New Caledonia,terceros países
+NE,país,Niger,terceros países
+NF,país,Norfolk Island,terceros países
+NG,país,Nigeria,terceros países
+NI,país,Nicaragua,terceros países
+NL,país,Netherlands,UE
+NO,país,Norway (incl. Svalbard and Jan Mayen 'SJ' -> 1994 and again from 1997),terceros países
+NP,país,Nepal,terceros países
+NR,país,Nauru,terceros países
+NU,país,Niue,terceros países
+NZ,país,New Zealand,terceros países
+OM,país,Oman,terceros países
+PA,país,Panama (incl. Panama Canal Zone 'PZ' from 1981),terceros países
+PE,país,Peru,terceros países
+PF,país,French Polynesia,terceros países
+PG,país,Papua New Guinea,terceros países
+PH,país,Philippines,terceros países
+PK,país,Pakistan,terceros países
+PL,país,Poland,UE
+PM,país,St Pierre and Miquelon,terceros países
+PN,país,Pitcairn,terceros países
+PS,país,Occupied Palestinian Territory (West Bank (incl. East Jerusalem) and Gaza Strip),terceros países
+PT,país,Portugal,UE
+PW,país,Palau,terceros países
+PY,país,Paraguay,terceros países
+QA,país,Qatar,terceros países
+QP,no especificado,High seas,terceros países
+QV,no especificado,Countries and territories not specified within the framework of intra-Union trade,terceros países
+QW,no especificado,Countries and territories not specified within the framework of extra-Union trade,terceros países
+QY,no especificado,Countries and territories not specified for commercial or military reasons in the framework of intra-Union trade,terceros países
+QZ,no especificado,Countries and territories not specified for commercial or military reasons in the framework of extra-Union trade,terceros países
+RO,país,Romania,UE
+RU,país,Russian Federation (Russia),terceros países
+RW,país,Rwanda,terceros países
+SA,país,Saudi Arabia,terceros países
+SB,país,Solomon Islands,terceros países
+SC,país,Seychelles,terceros países
+SD,país,Sudan (incl. South Sudan 'SS' -> 2012),terceros países
+SE,país,Sweden,UE
+SG,país,Singapore,terceros países
+SH,país,"Saint Helena, Ascension and Tristan da Cunha",terceros países
+SI,país,Slovenia,UE
+SK,país,Slovakia,UE
+SL,país,Sierra Leone,terceros países
+SM,país,San Marino,terceros países
+SN,país,Senegal,terceros países
+SO,país,Somalia,terceros países
+SR,país,Suriname,terceros países
+SS,país,South Sudan,terceros países
+ST,país,Sao Tome and Principe,terceros países
+SV,país,El Salvador,terceros países
+SX,país,Sint Maarten (Dutch part),terceros países
+SY,país,Syrian Arab Republic (Syria),terceros países
+SZ,país,Eswatini (Ngwane),terceros países
+TC,país,Turks and Caicos Islands,terceros países
+TD,país,Chad,terceros países
+TF,país,French Southern Territories,terceros países
+TG,país,Togo,terceros países
+TH,país,Thailand,terceros países
+TJ,país,Tajikistan,terceros países
+TK,país,Tokelau,terceros países
+TL,país,Timor-Leste,terceros países
+TM,país,Turkmenistan,terceros países
+TN,país,Tunisia,terceros países
+TO,país,Tonga,terceros países
+TR,país,Türkiye,terceros países
+TT,país,Trinidad and Tobago,terceros países
+TV,país,Tuvalu,terceros países
+TW,país,Taiwan,terceros países
+TZ,país,"Tanzania, United Republic of",terceros países
+UA,país,Ukraine,terceros países
+UG,país,Uganda,terceros países
+UM,país,United States Minor Outlying Islands,terceros países
+US,país,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),terceros países
+UY,país,Uruguay,terceros países
+UZ,país,Uzbekistan,terceros países
+VA,país,Holy See (Vatican City State),terceros países
+VC,país,St Vincent and the Grenadines,terceros países
+VE,país,"Venezuela, Bolivarian Republic of",terceros países
+VG,país,"Virgin Islands, British (incl. Montserrat 'MS' -> 1994)",terceros países
+VI,país,"Virgin Islands, United States",terceros países
+VN,país,Viet Nam (incl. North Viet Nam 'VD' from 1977),terceros países
+VU,país,Vanuatu,terceros países
+WF,país,Wallis and Futuna,terceros países
+WS,país,Samoa,terceros países
+XC,territorio,Ceuta (incl. Melilla 'XL' -> 1998),terceros países
+XK,país,Kosovo,terceros países
+XL,territorio,Melilla,terceros países
+XS,país,Serbia,terceros países
+YE,país,Yemen (incl. South Yemen 'YD' from 1991),terceros países
+ZA,país,South Africa (incl. Namibia 'NA' -> 1989),terceros países
+ZM,país,Zambia,terceros países
+ZW,país,Zimbabwe,terceros países
