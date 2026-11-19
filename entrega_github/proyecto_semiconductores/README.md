@@ -74,6 +74,4 @@ Se usan años completos (2015–2025); enero–agosto de 2026 solo sirve para co
 
 Para volver a descargar los datos de Datacomex hace falta un token personal de su API. El script `scripts/descargar_datacomex_api.py` lo pide por pantalla (o lo lee de la variable de entorno `DATACOMEX_TOKEN`) y no lo guarda en ningún archivo.
 
-## Uso de inteligencia artificial
 
-Se utilizó un asistente de IA (Claude, de Anthropic) como apoyo para escribir y revisar el código, contrastar los métodos con la literatura y redactar borradores de los textos.
